@@ -2625,3 +2625,29 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.12-20.54.07:016][121]LogDerivedDataCache: C:/Users/adinf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/adinf/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/e8/c7/3906425e3aad1360253ae1f9cee0d30c4924.udd from '/Game/__ExternalActors__/StarterContent/Maps/Adin_Farid_Animation/E/MY/7J56S011XSW8PJWAD5NZQG.StaticMesh_HLOD0_Instancing_2'.
 [2023.11.12-21.03.19:356][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
 [2023.11.12-21.03.19:358][723]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Adin_Farid_Animation' took 0.005
+[2023.11.12-21.13.19:548][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.11.12-21.13.19:550][142]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Adin_Farid_Animation' took 0.006
+[2023.11.12-21.20.36:029][451]LogDerivedDataCache: C:/Users/adinf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.170 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3923 files in 5743 folders with total size 845 MiB.
+[2023.11.12-21.23.20:217][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.12-21.23.20:218][943]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Adin_Farid_Animation' took 0.005
+[2023.11.12-21.33.20:567][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.11.12-21.33.20:568][743]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Adin_Farid_Animation' took 0.005
+[2023.11.12-21.43.20:901][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.12-21.43.20:902][543]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Adin_Farid_Animation' took 0.005
+[2023.11.12-21.53.21:541][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.12-21.53.21:542][344]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Adin_Farid_Animation' took 0.005
+[2023.11.12-22.03.22:107][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.12-22.03.22:108][145]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Adin_Farid_Animation' took 0.005
+[2023.11.12-22.13.22:680][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.12-22.13.22:681][946]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Adin_Farid_Animation' took 0.006
+[2023.11.12-22.20.36:020][246]LogDerivedDataCache: C:/Users/adinf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.160 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3923 files in 5743 folders with total size 845 MiB.
+[2023.11.12-22.23.23:230][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.12-22.23.23:230][747]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Adin_Farid_Animation' took 0.005
+[2023.11.12-22.33.23:733][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.12-22.33.23:734][548]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Adin_Farid_Animation' took 0.004
+[2023.11.12-22.43.24:220][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.12-22.43.24:221][349]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Adin_Farid_Animation' took 0.005
+[2023.11.12-22.53.24:730][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.12-22.53.24:731][150]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Adin_Farid_Animation' took 0.004
+[2023.11.12-23.03.25:316][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.12-23.03.25:317][951]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Adin_Farid_Animation' took 0.005
