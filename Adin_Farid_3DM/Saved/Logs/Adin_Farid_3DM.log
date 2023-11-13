@@ -2067,3 +2067,193 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.13-16.31.15:717][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.90 sec)
 [2023.11.13-16.31.15:719][898]AssetCheck: New page: Asset Save: TeacherOrders
 [2023.11.13-16.31.15:719][898]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeacherOrders.TeacherOrders
+[2023.11.13-16.34.04:049][835]LogEditorFactories: Performing atomic reimport of [C:/Users/adfa8505/Documents/GitHub/3DM2023/MayaProjectExports/WhiteBoxAssets.fbx]
+[2023.11.13-16.34.04:053][835]LogFbx: Loading FBX Scene from C:/Users/adfa8505/Documents/GitHub/3DM2023/MayaProjectExports/WhiteBoxAssets.fbx
+[2023.11.13-16.34.04:066][835]LogFbx: FBX Scene Loaded Succesfully
+[2023.11.13-16.34.04:106][835]LogFbx: Display: Triangulating static mesh WhiteBoxAssets
+[2023.11.13-16.34.04:482][835]LogStaticMesh: Display: Building static mesh WhiteBoxAssets...
+[2023.11.13-16.34.04:738][835]LogStaticMesh: Built static mesh [0.26s] /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
+[2023.11.13-16.34.04:769][835]LogStaticMesh: Warning: WhiteBoxAssets has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.11.13-16.34.04:769][835]LogStaticMesh: Warning: WhiteBoxAssets has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.11.13-16.34.04:798][835]LogEditorFactories: -- imported successfully
+[2023.11.13-16.34.04:800][835]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.11.13-16.34.04:800][835]FBXImport: Warning: WhiteBoxAssets has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.11.13-16.34.04:800][835]FBXImport: Warning: WhiteBoxAssets has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.11.13-16.34.06:539][997]LogEditorViewport: Clicking Background
+[2023.11.13-16.34.15:402][ 40]LogEditorViewport: Clicking Background
+[2023.11.13-16.35.51:003][ 21]LogDerivedDataCache: C:/Users/adfa8505/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.028 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1228 files in 1968 folders with total size 112 MiB.
+[2023.11.13-16.38.45:134][ 75]Cmd: r.ResetRenderTargetsExtent
+[2023.11.13-16.38.45:144][ 75]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.11.13-16.38.45:144][ 75]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.11.13-16.38.53:032][973]LogViewport: Scene viewport resized to 706x397, mode Windowed.
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: ================================================
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Total job queries 7 953, among them cache hits 357 (4.49%)
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Tracking 7 588 distinct input hashes that result in 5 514 distinct outputs (72.67%)
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: RAM used: 116,06 MiB of 1,60 GiB budget. Usage: 7.08%
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Shaders Compiled: 7 588
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Jobs assigned 7 591, completed 7 588 (99.96%)
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Average time worker was idle: 326.29 s
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Time job spent in pending queue: average 41.60 s, longest 96.71 s
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Job execution time: average 2.05 s, max 22.68 s
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Job life time (pending + execution): average 43.67 s, max 100.14
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Shader code size: average 32,085 KiB, min 2,078 KiB, max 454,4 KiB
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 116.47 s
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Jobs were issued in 976 batches (only local compilation was used), average 7.78 jobs/batch
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Average processing rate: 65.15 jobs/sec
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Total thread time: 1 576,797 s
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Total thread preprocess time: 106,347 s
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Percentage time preprocessing: 6.74%
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Effective parallelization: 13.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    4 times, average 17.22 sec, max 21.42 sec, min 13.08 sec)
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.08 sec, max 5.54 sec, min 1.04 sec)
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   12 times, average 3.06 sec, max 5.43 sec, min 0.45 sec)
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.04 sec, max 3.63 sec, min 2.32 sec)
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS (compiled   48 times, average 1.68 sec, max 2.02 sec, min 1.35 sec)
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.48% of total time (compiled  134 times, average 0.88 sec, max 1.10 sec, min 0.76 sec)
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS - 5.11% of total time (compiled   48 times, average 1.68 sec, max 2.02 sec, min 1.35 sec)
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display:                                                FOcclusionRGS - 4.41% of total time (compiled  192 times, average 0.36 sec, max 0.65 sec, min 0.16 sec)
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display:                                               FPathTracingRG - 4.37% of total time (compiled    4 times, average 17.22 sec, max 21.42 sec, min 13.08 sec)
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.20% of total time (compiled  256 times, average 0.26 sec, max 0.40 sec, min 0.17 sec)
+[2023.11.13-16.38.53:155][977]LogShaderCompilers: Display: ================================================
+[2023.11.13-16.39.43:950][930]LogCore: Display: Tracing Screenshot "HighresScreenshot00000" taken with size: 2105 x 1184
+[2023.11.13-16.39.44:193][931]LogClient: High resolution screenshot saved as C:/Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Screenshots/WindowsEditor/HighresScreenshot00000.png
+[2023.11.13-16.40.08:254][429]Cmd: r.ResetRenderTargetsExtent
+[2023.11.13-16.40.08:254][429]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.11.13-16.40.08:254][429]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.11.13-16.41.38:949][260]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.13-16.41.45:851][ 66]LogViewport: Scene viewport resized to 706x397, mode Windowed.
+[2023.11.13-16.41.52:344][815]LogViewport: Scene viewport resized to 706x397, mode Windowed.
+[2023.11.13-16.44.06:361][536]LogViewport: Scene viewport resized to 706x397, mode Windowed.
+[2023.11.13-16.44.33:877][692]LogCore: Display: Tracing Screenshot "HighresScreenshot00001" taken with size: 2105 x 1184
+[2023.11.13-16.44.34:085][693]LogClient: High resolution screenshot saved as C:/Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Screenshots/WindowsEditor/HighresScreenshot00001.png
+[2023.11.13-16.45.03:705][140]Cmd: r.ResetRenderTargetsExtent
+[2023.11.13-16.45.03:706][140]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.11.13-16.45.03:706][140]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.11.13-16.46.38:771][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.13-16.46.38:775][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TeacherOrders_Auto2
+[2023.11.13-16.46.38:775][493]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/TeacherOrders_Auto2CBE80548448E3AD685AACC9D6852248F.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Autosaves/Game/TeacherOrders_Auto2.umap'
+[2023.11.13-16.46.38:776][493]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Autosaves/Game/TeacherOrders_Auto2.umap is in the /Temp path, will not scan.
+[2023.11.13-16.46.38:776][493]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/TeacherOrders_Auto2 is in the /Temp path, will not scan.
+[2023.11.13-16.46.38:776][493]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/TeacherOrders_Auto2 is in the /Temp path, will not scan.
+[2023.11.13-16.46.38:776][493]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TeacherOrders' took 0.015
+[2023.11.13-16.46.38:776][493]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.015
+[2023.11.13-16.46.38:776][493]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WhiteBoxAssetsCombined/WhiteBoxAssets] ([1] browsable assets)...
+[2023.11.13-16.46.38:801][493]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets]
+[2023.11.13-16.46.38:801][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/WhiteBoxAssetsCombined/WhiteBoxAssets]
+[2023.11.13-16.46.38:810][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WhiteBoxAssetsCombined/WhiteBoxAssets_Auto2
+[2023.11.13-16.46.38:810][493]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/WhiteBoxAssets_Auto210D2E8FD43EA157D7CB7F8B4BBAC9E32.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Autosaves/Game/WhiteBoxAssetsCombined/WhiteBoxAssets_Auto2.uasset'
+[2023.11.13-16.46.38:810][493]LogFileHelpers: Auto-saving content packages took 0.034
+[2023.11.13-16.46.44:786][184]LogViewport: Scene viewport resized to 776x580, mode Windowed.
+[2023.11.13-16.46.46:135][337]LogViewport: Scene viewport resized to 2105x1260, mode Windowed.
+[2023.11.13-16.46.51:399][942]LogCore: Display: Tracing Screenshot "HighresScreenshot00002" taken with size: 2105 x 1184
+[2023.11.13-16.46.51:609][943]LogClient: High resolution screenshot saved as C:/Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Screenshots/WindowsEditor/HighresScreenshot00002.png
+[2023.11.13-16.46.58:738][320]Cmd: r.ResetRenderTargetsExtent
+[2023.11.13-16.46.58:739][320]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.11.13-16.46.58:739][320]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.11.13-16.51.27:196][312]LogCore: Display: Tracing Screenshot "HighresScreenshot00003" taken with size: 2105 x 1184
+[2023.11.13-16.51.27:358][313]LogClient: High resolution screenshot saved as C:/Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Screenshots/WindowsEditor/HighresScreenshot00003.png
+[2023.11.13-16.51.39:027][749]Cmd: r.ResetRenderTargetsExtent
+[2023.11.13-16.51.39:027][749]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.11.13-16.51.39:027][749]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.11.13-16.52.37:046][470]Cmd: TRANSACTION UNDO
+[2023.11.13-16.52.37:046][470]LogEditorTransaction: Undo Set Location
+[2023.11.13-16.54.49:829][277]LogEditorFactories: Performing atomic reimport of [C:/Users/adfa8505/Documents/GitHub/3DM2023/MayaProjectExports/TrashCan_Lowpoly(FBX).fbx]
+[2023.11.13-16.54.49:831][277]LogFbx: Loading FBX Scene from C:/Users/adfa8505/Documents/GitHub/3DM2023/MayaProjectExports/TrashCan_Lowpoly(FBX).fbx
+[2023.11.13-16.54.49:834][277]LogFbx: FBX Scene Loaded Succesfully
+[2023.11.13-16.54.49:883][277]LogFbx: Display: Triangulating static mesh Trashcan_LowPoly
+[2023.11.13-16.54.49:900][277]LogStaticMesh: Display: Building static mesh TrashCan_Lowpoly_FBX_...
+[2023.11.13-16.54.49:954][277]LogStaticMesh: Built static mesh [0.05s] /Game/TrashCan/TrashCan_Lowpoly_FBX_.TrashCan_Lowpoly_FBX_
+[2023.11.13-16.54.49:966][277]LogEditorFactories: -- imported successfully
+[2023.11.13-16.54.49:966][277]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.11.13-16.55.03:455][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TrashCan/TrashCan_Lowpoly_FBX_.TrashCan_Lowpoly_FBX_
+[2023.11.13-16.55.03:455][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TrashCan/TrashCan_Lowpoly_FBX_.TrashCan_Lowpoly_FBX_
+[2023.11.13-16.55.03:455][750]LogActorFactory: Actor Factory spawned StaticMesh /Game/TrashCan/TrashCan_Lowpoly_FBX_.TrashCan_Lowpoly_FBX_ as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_12
+[2023.11.13-16.55.04:505][873]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TrashCan/TrashCan_Lowpoly_FBX_.TrashCan_Lowpoly_FBX_
+[2023.11.13-16.55.04:505][873]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TrashCan/TrashCan_Lowpoly_FBX_.TrashCan_Lowpoly_FBX_
+[2023.11.13-16.55.04:506][873]LogActorFactory: Actor Factory spawned StaticMesh /Game/TrashCan/TrashCan_Lowpoly_FBX_.TrashCan_Lowpoly_FBX_ as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_13
+[2023.11.13-16.55.20:979][773]Cmd: DELETE
+[2023.11.13-16.55.20:989][773]Cmd: ACTOR DELETE
+[2023.11.13-16.55.20:995][773]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.11.13-16.55.20:998][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.11.13-16.55.21:000][773]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.11.13-16.55.37:471][616]Cmd: MODE GRID=0
+[2023.11.13-16.56.38:891][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.11.13-16.56.38:895][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TeacherOrders_Auto3
+[2023.11.13-16.56.38:895][205]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/TeacherOrders_Auto3441136C440E88623E62C17A6A8FF131C.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Autosaves/Game/TeacherOrders_Auto3.umap'
+[2023.11.13-16.56.38:896][205]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Autosaves/Game/TeacherOrders_Auto3.umap is in the /Temp path, will not scan.
+[2023.11.13-16.56.38:896][205]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/TeacherOrders_Auto3 is in the /Temp path, will not scan.
+[2023.11.13-16.56.38:896][205]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/TeacherOrders_Auto3 is in the /Temp path, will not scan.
+[2023.11.13-16.56.38:896][205]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TeacherOrders' took 0.008
+[2023.11.13-16.56.38:896][205]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.008
+[2023.11.13-16.56.38:896][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TrashCan/TrashCan_Lowpoly_FBX_] ([1] browsable assets)...
+[2023.11.13-16.56.39:019][205]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TrashCan/TrashCan_Lowpoly_FBX_.TrashCan_Lowpoly_FBX_]
+[2023.11.13-16.56.39:019][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/TrashCan/TrashCan_Lowpoly_FBX_]
+[2023.11.13-16.56.39:022][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TrashCan/TrashCan_Lowpoly_FBX__Auto3
+[2023.11.13-16.56.39:022][205]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/TrashCan_Lowpoly_FBX__Auto3F26CC2D041BC11E34D21BBBAF909D764.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Autosaves/Game/TrashCan/TrashCan_Lowpoly_FBX__Auto3.uasset'
+[2023.11.13-16.56.39:022][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WhiteBoxAssetsCombined/WhiteBoxAssets] ([1] browsable assets)...
+[2023.11.13-16.56.39:022][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/WhiteBoxAssetsCombined/WhiteBoxAssets]
+[2023.11.13-16.56.39:030][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WhiteBoxAssetsCombined/WhiteBoxAssets_Auto3
+[2023.11.13-16.56.39:030][205]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/WhiteBoxAssets_Auto31164346B4DA7E57613B8809D0BF8B9FA.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Autosaves/Game/WhiteBoxAssetsCombined/WhiteBoxAssets_Auto3.uasset'
+[2023.11.13-16.56.39:031][205]LogFileHelpers: Auto-saving content packages took 0.134
+[2023.11.13-16.56.59:455][214]LogEditorFactories: Performing atomic reimport of [C:/Users/adfa8505/Documents/GitHub/3DM2023/MayaProjectExports/CoffeeCan_LowPoly(FBX).fbx]
+[2023.11.13-16.56.59:457][214]LogFbx: Loading FBX Scene from C:/Users/adfa8505/Documents/GitHub/3DM2023/MayaProjectExports/CoffeeCan_LowPoly(FBX).fbx
+[2023.11.13-16.56.59:460][214]LogFbx: FBX Scene Loaded Succesfully
+[2023.11.13-16.56.59:503][214]LogFbx: Display: Triangulating static mesh Kaffeburk_LowPoly
+[2023.11.13-16.56.59:509][214]LogStaticMesh: Display: Building static mesh CoffeeCan_LowPoly_FBX_...
+[2023.11.13-16.56.59:534][214]LogStaticMesh: Built static mesh [0.03s] /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.56.59:542][214]LogEditorFactories: -- imported successfully
+[2023.11.13-16.56.59:542][214]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.11.13-16.57.02:523][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-16.57.02:566][517]LogSavePackage: Moving output files for package: /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.57.02:566][517]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/CoffeeCan_LowPoly_FBX_FBDB05994CF467877DFFE082AFEF92B8.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/CoffeeCan/CoffeeCan_LowPoly_FBX_.uasset'
+[2023.11.13-16.57.02:572][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 2.95 sec)
+[2023.11.13-16.57.02:573][517]AssetCheck: New page: Asset Save: CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.57.02:573][517]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.57.07:380][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-16.57.07:404][ 79]LogSavePackage: Moving output files for package: /Game/TrashCan/TrashCan_Lowpoly_FBX_
+[2023.11.13-16.57.07:404][ 79]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/TrashCan_Lowpoly_FBX_420C9B0942FB40A1CADF0EBDCBFEA374.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/TrashCan/TrashCan_Lowpoly_FBX_.uasset'
+[2023.11.13-16.57.07:409][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 2.98 sec)
+[2023.11.13-16.57.07:410][ 79]AssetCheck: New page: Asset Save: TrashCan_Lowpoly_FBX_
+[2023.11.13-16.57.07:410][ 79]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TrashCan/TrashCan_Lowpoly_FBX_.TrashCan_Lowpoly_FBX_
+[2023.11.13-16.57.12:311][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.57.12:311][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.57.12:311][643]LogActorFactory: Actor Factory spawned StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_ as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_14
+[2023.11.13-16.57.13:823][821]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.57.13:823][821]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.57.13:824][821]LogActorFactory: Actor Factory spawned StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_ as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_15
+[2023.11.13-16.57.22:457][845]Cmd: DELETE
+[2023.11.13-16.57.22:457][845]Cmd: ACTOR DELETE
+[2023.11.13-16.57.22:458][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.11.13-16.57.22:460][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.11.13-16.57.22:462][845]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2023.11.13-16.57.52:016][246]Cmd: MODE ROTGRID=0
+[2023.11.13-16.59.41:241][134]LogCore: Display: Tracing Screenshot "HighresScreenshot00004" taken with size: 2105 x 1184
+[2023.11.13-16.59.41:446][135]LogClient: High resolution screenshot saved as C:/Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Screenshots/WindowsEditor/HighresScreenshot00004.png
+[2023.11.13-17.06.39:358][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.11.13-17.06.39:363][206]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TeacherOrders_Auto4
+[2023.11.13-17.06.39:364][206]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/TeacherOrders_Auto444E165484E7D4132C00B43B57A9DD0FF.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Autosaves/Game/TeacherOrders_Auto4.umap'
+[2023.11.13-17.06.39:364][206]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Autosaves/Game/TeacherOrders_Auto4.umap is in the /Temp path, will not scan.
+[2023.11.13-17.06.39:364][206]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/TeacherOrders_Auto4 is in the /Temp path, will not scan.
+[2023.11.13-17.06.39:364][206]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/TeacherOrders_Auto4 is in the /Temp path, will not scan.
+[2023.11.13-17.06.39:364][206]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TeacherOrders' took 0.008
+[2023.11.13-17.06.39:364][206]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.008
+[2023.11.13-17.21.24:614][ 40]Cmd: r.ResetRenderTargetsExtent
+[2023.11.13-17.21.24:614][ 40]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.11.13-17.21.24:614][ 40]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.11.13-17.21.28:665][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.11.13-17.21.28:667][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-17.21.28:705][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TeacherOrders" FILE="../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/TeacherOrders.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.13-17.21.28:722][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2023.11.13-17.21.28:725][515]LogSavePackage: Moving output files for package: /Game/TeacherOrders
+[2023.11.13-17.21.28:726][515]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/TeacherOrders51FE46594B34596070ED2A8B944F10E8.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/TeacherOrders.umap'
+[2023.11.13-17.21.28:730][515]LogFileHelpers: Saving map 'TeacherOrders' took 0.026
+[2023.11.13-17.21.28:739][515]LogSavePackage: Moving output files for package: /Game/WhiteBoxAssetsCombined/WhiteBoxAssets
+[2023.11.13-17.21.28:739][515]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/WhiteBoxAssets867A8BE548E5CAFB645D0CBAC8930710.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/WhiteBoxAssetsCombined/WhiteBoxAssets.uasset'
+[2023.11.13-17.21.28:744][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 3.06 sec)
+[2023.11.13-17.21.28:746][515]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.13-17.21.28:746][515]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeacherOrders.TeacherOrders
+[2023.11.13-17.21.28:746][515]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
