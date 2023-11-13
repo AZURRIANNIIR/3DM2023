@@ -1809,3 +1809,261 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.13-13.35.50:009][919]LogDerivedDataCache: C:/Users/adfa8505/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.052 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1191 files in 1907 folders with total size 103 MiB.
 [2023.11.13-14.35.50:992][719]LogDerivedDataCache: C:/Users/adfa8505/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.025 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1191 files in 1907 folders with total size 103 MiB.
 [2023.11.13-15.35.49:996][514]LogDerivedDataCache: C:/Users/adfa8505/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.029 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1191 files in 1907 folders with total size 103 MiB.
+[2023.11.13-16.02.43:635][830]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.13-16.02.43:647][830]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.13-16.02.43:655][831]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.13-16.02.52:718][910]LogContentBrowser: Attempting asset rename: NewFolder -> WhiteBoxAssetsCombined
+[2023.11.13-16.02.52:718][910]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.13-16.03.15:049][ 19]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\adfa8505\Documents\GitHub\3DM2023\MayaProjectExports\WhiteBoxAssets.fbx)
+[2023.11.13-16.03.15:053][ 19]LogFbx: Loading FBX Scene from C:\Users\adfa8505\Documents\GitHub\3DM2023\MayaProjectExports\WhiteBoxAssets.fbx
+[2023.11.13-16.03.15:075][ 19]LogFbx: FBX Scene Loaded Succesfully
+[2023.11.13-16.03.17:611][ 19]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.11.13-16.03.17:685][ 19]LogFbx: Display: Triangulating static mesh WhiteBoxAssets1
+[2023.11.13-16.03.18:086][ 19]LogStaticMesh: Display: Building static mesh WhiteBoxAssets...
+[2023.11.13-16.03.18:303][ 19]LogStaticMesh: Built static mesh [0.22s] /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
+[2023.11.13-16.03.18:327][ 19]LogStaticMesh: Warning: WhiteBoxAssets has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.11.13-16.03.18:327][ 19]LogStaticMesh: Warning: WhiteBoxAssets has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.11.13-16.03.18:365][ 19]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.11.13-16.03.18:365][ 19]FBXImport: Warning: WhiteBoxAssets has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.11.13-16.03.18:365][ 19]FBXImport: Warning: WhiteBoxAssets has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: ================================================
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Total job queries 7 820, among them cache hits 243 (3.11%)
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Tracking 7 572 distinct input hashes that result in 5 513 distinct outputs (72.81%)
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: RAM used: 115,66 MiB of 1,60 GiB budget. Usage: 7.06%
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Shaders Compiled: 7 572
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Jobs assigned 7 572, completed 7 572 (100%)
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Average time worker was idle: 17.51 s
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Time job spent in pending queue: average 41.70 s, longest 96.71 s
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Job execution time: average 2.06 s, max 22.68 s
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Job life time (pending + execution): average 43.76 s, max 100.14
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Shader code size: average 32,062 KiB, min 2,078 KiB, max 454,4 KiB
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 115.22 s
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Jobs were issued in 957 batches (only local compilation was used), average 7.91 jobs/batch
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Average processing rate: 65.72 jobs/sec
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Total thread time: 1 570,386 s
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Total thread preprocess time: 103,26 s
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Percentage time preprocessing: 6.58%
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Effective parallelization: 13.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    4 times, average 17.22 sec, max 21.42 sec, min 13.08 sec)
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.08 sec, max 5.54 sec, min 1.04 sec)
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   12 times, average 3.06 sec, max 5.43 sec, min 0.45 sec)
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.04 sec, max 3.63 sec, min 2.32 sec)
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS (compiled   48 times, average 1.68 sec, max 2.02 sec, min 1.35 sec)
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.51% of total time (compiled  134 times, average 0.88 sec, max 1.10 sec, min 0.76 sec)
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS - 5.13% of total time (compiled   48 times, average 1.68 sec, max 2.02 sec, min 1.35 sec)
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display:                                                FOcclusionRGS - 4.43% of total time (compiled  192 times, average 0.36 sec, max 0.65 sec, min 0.16 sec)
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display:                                               FPathTracingRG - 4.39% of total time (compiled    4 times, average 17.22 sec, max 21.42 sec, min 13.08 sec)
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.22% of total time (compiled  256 times, average 0.26 sec, max 0.40 sec, min 0.17 sec)
+[2023.11.13-16.03.18:542][ 22]LogShaderCompilers: Display: ================================================
+[2023.11.13-16.03.21:473][355]LogSlate: Window 'Message Log' being destroyed
+[2023.11.13-16.03.21:479][355]LogSlate: Window 'Message Log' being destroyed
+[2023.11.13-16.03.24:366][683]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
+[2023.11.13-16.03.24:366][683]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
+[2023.11.13-16.03.24:366][683]LogActorFactory: Actor Factory spawned StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets as actor: StaticMeshActor /Game/StarterContent/Maps/Adin_Farid_Animation.Adin_Farid_Animation:PersistentLevel.StaticMeshActor_1
+[2023.11.13-16.03.26:998][991]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
+[2023.11.13-16.03.26:998][991]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
+[2023.11.13-16.03.26:998][991]LogActorFactory: Actor Factory spawned StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets as actor: StaticMeshActor /Game/StarterContent/Maps/Adin_Farid_Animation.Adin_Farid_Animation:PersistentLevel.StaticMeshActor_2
+[2023.11.13-16.03.27:760][ 77]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
+[2023.11.13-16.03.27:760][ 77]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
+[2023.11.13-16.03.27:761][ 77]LogActorFactory: Actor Factory spawned StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets as actor: StaticMeshActor /Game/StarterContent/Maps/Adin_Farid_Animation.Adin_Farid_Animation:PersistentLevel.StaticMeshActor_3
+[2023.11.13-16.03.30:142][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
+[2023.11.13-16.03.30:142][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
+[2023.11.13-16.03.30:144][358]LogActorFactory: Actor Factory spawned StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets as actor: StaticMeshActor /Game/StarterContent/Maps/Adin_Farid_Animation.Adin_Farid_Animation:PersistentLevel.StaticMeshActor_UAID_581122D17BCC0BBC01_1682040624
+[2023.11.13-16.03.31:680][530]LogSlate: Window 'Content Browser' being destroyed
+[2023.11.13-16.03.31:686][530]LogSlate: Window 'Content Browser' being destroyed
+[2023.11.13-16.09.35:522][947]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.13-16.10.09:540][ 18]Cmd: TRANSACTION UNDO
+[2023.11.13-16.10.09:540][ 18]LogEditorTransaction: Undo Rotate Elements
+[2023.11.13-16.10.09:970][ 32]Cmd: TRANSACTION UNDO
+[2023.11.13-16.10.09:970][ 32]LogEditorTransaction: Undo Rotate Elements
+[2023.11.13-16.12.01:208][202]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.13-16.13.24:080][118]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.13-16.13.42:562][317]Cmd: TRANSACTION UNDO
+[2023.11.13-16.13.42:562][317]LogEditorTransaction: Undo Clicking on Elements
+[2023.11.13-16.14.24:597][286]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.13-16.14.45:843][784]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.13-16.14.56:921][ 97]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.13-16.15.25:573][480]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.11.13-16.15.25:579][480]LogContentBrowser: Creating deferred item: NewWorld
+[2023.11.13-16.15.25:586][481]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.11.13-16.15.42:318][476]LogContentBrowser: Attempting asset rename: NewWorld -> TeacherOrders
+[2023.11.13-16.15.42:318][476]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.13-16.15.42:319][476]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.13-16.15.42:320][476]LogContentBrowser: End creating deferred item NewWorld
+[2023.11.13-16.15.44:071][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-16.15.44:102][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TeacherOrders" FILE="../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/TeacherOrders.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.13-16.15.44:109][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.11.13-16.15.44:112][686]LogSavePackage: Moving output files for package: /Game/TeacherOrders
+[2023.11.13-16.15.44:112][686]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/TeacherOrders4A8C51ED43A23392A92406A4CA429ADD.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/TeacherOrders.umap'
+[2023.11.13-16.15.44:118][686]LogFileHelpers: Saving map 'TeacherOrders' took 0.016
+[2023.11.13-16.15.44:123][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 1.72 sec)
+[2023.11.13-16.15.44:123][686]AssetCheck: New page: Asset Save: TeacherOrders
+[2023.11.13-16.15.44:123][686]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeacherOrders.TeacherOrders
+[2023.11.13-16.16.25:526][613]Cmd: TRANSACTION UNDO
+[2023.11.13-16.16.25:526][613]LogEditorTransaction: Undo Clicking on Actors
+[2023.11.13-16.18.03:034][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.11.13-16.18.04:910][226]LogSlate: Window 'Save Content' being destroyed
+[2023.11.13-16.18.04:918][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-16.18.04:950][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Maps/Adin_Farid_Animation/7/RF/E7VT4DKYAWNORKFAVHMPML
+[2023.11.13-16.18.04:950][226]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/E7VT4DKYAWNORKFAVHMPML2EEB77524C686E526EF06D8F2E950B63.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/__ExternalActors__/StarterContent/Maps/Adin_Farid_Animation/7/RF/E7VT4DKYAWNORKFAVHMPML.uasset'
+[2023.11.13-16.18.04:952][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Maps/Adin_Farid_Animation/9/LW/QWNWWFYY92NMI9KN0HKY7I
+[2023.11.13-16.18.04:952][226]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/QWNWWFYY92NMI9KN0HKY7I703BDCFC47032152252587BF78066041.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/__ExternalActors__/StarterContent/Maps/Adin_Farid_Animation/9/LW/QWNWWFYY92NMI9KN0HKY7I.uasset'
+[2023.11.13-16.18.05:902][226]LogShaderCompilers: Display: ================================================
+[2023.11.13-16.18.05:902][226]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.13-16.18.05:902][226]LogShaderCompilers: Display: Total job queries 7 874, among them cache hits 282 (3.58%)
+[2023.11.13-16.18.05:902][226]LogShaderCompilers: Display: Tracking 7 587 distinct input hashes that result in 5 513 distinct outputs (72.66%)
+[2023.11.13-16.18.05:902][226]LogShaderCompilers: Display: RAM used: 116,04 MiB of 1,60 GiB budget. Usage: 7.08%
+[2023.11.13-16.18.05:902][226]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.13-16.18.05:902][226]LogShaderCompilers: Display: Shaders Compiled: 7 587
+[2023.11.13-16.18.05:902][226]LogShaderCompilers: Display: Jobs assigned 7 587, completed 7 587 (100%)
+[2023.11.13-16.18.05:902][226]LogShaderCompilers: Display: Average time worker was idle: 322.43 s
+[2023.11.13-16.18.05:902][226]LogShaderCompilers: Display: Time job spent in pending queue: average 41.62 s, longest 96.71 s
+[2023.11.13-16.18.05:902][226]LogShaderCompilers: Display: Job execution time: average 2.05 s, max 22.68 s
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display: Job life time (pending + execution): average 43.67 s, max 100.14
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display: Shader code size: average 32,085 KiB, min 2,078 KiB, max 454,4 KiB
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 116.16 s
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display: Jobs were issued in 972 batches (only local compilation was used), average 7.81 jobs/batch
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display: Average processing rate: 65.32 jobs/sec
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display: Total thread time: 1 576,708 s
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display: Total thread preprocess time: 106,328 s
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display: Percentage time preprocessing: 6.74%
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display: Effective parallelization: 13.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    4 times, average 17.22 sec, max 21.42 sec, min 13.08 sec)
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.08 sec, max 5.54 sec, min 1.04 sec)
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   12 times, average 3.06 sec, max 5.43 sec, min 0.45 sec)
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.04 sec, max 3.63 sec, min 2.32 sec)
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS (compiled   48 times, average 1.68 sec, max 2.02 sec, min 1.35 sec)
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.48% of total time (compiled  134 times, average 0.88 sec, max 1.10 sec, min 0.76 sec)
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS - 5.11% of total time (compiled   48 times, average 1.68 sec, max 2.02 sec, min 1.35 sec)
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display:                                                FOcclusionRGS - 4.41% of total time (compiled  192 times, average 0.36 sec, max 0.65 sec, min 0.16 sec)
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display:                                               FPathTracingRG - 4.37% of total time (compiled    4 times, average 17.22 sec, max 21.42 sec, min 13.08 sec)
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.20% of total time (compiled  256 times, average 0.26 sec, max 0.40 sec, min 0.17 sec)
+[2023.11.13-16.18.05:903][226]LogShaderCompilers: Display: ================================================
+[2023.11.13-16.18.05:941][226]LogSavePackage: Moving output files for package: /Game/WhiteBoxAssetsCombined/ForceFieldBlue
+[2023.11.13-16.18.05:941][226]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/ForceFieldBlueABB9F73D4F68BDBB011E0F9C08089EA8.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/WhiteBoxAssetsCombined/ForceFieldBlue.uasset'
+[2023.11.13-16.18.05:955][226]LogSavePackage: Moving output files for package: /Game/WhiteBoxAssetsCombined/lambert1
+[2023.11.13-16.18.05:955][226]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/lambert1116DF81A475AFDD6707372B45B6B4F78.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/WhiteBoxAssetsCombined/lambert1.uasset'
+[2023.11.13-16.18.05:969][226]LogSavePackage: Moving output files for package: /Game/WhiteBoxAssetsCombined/Shiny_Blue
+[2023.11.13-16.18.05:969][226]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Shiny_BlueE9285A454815BFDBC0D0C99B4AFCB1A6.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/WhiteBoxAssetsCombined/Shiny_Blue.uasset'
+[2023.11.13-16.18.05:983][226]LogSavePackage: Moving output files for package: /Game/WhiteBoxAssetsCombined/Shiny_Violet
+[2023.11.13-16.18.05:983][226]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Shiny_Violet89CCA837411174AB431A0C9CE3E706FE.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/WhiteBoxAssetsCombined/Shiny_Violet.uasset'
+[2023.11.13-16.18.05:984][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Maps/Adin_Farid_Animation/8/TQ/RM1KGHJ5X9DA5MHQ7Z6GG7
+[2023.11.13-16.18.05:984][226]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/RM1KGHJ5X9DA5MHQ7Z6GG758D957A14100E2E22447558AAAC508B7.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/__ExternalActors__/StarterContent/Maps/Adin_Farid_Animation/8/TQ/RM1KGHJ5X9DA5MHQ7Z6GG7.uasset'
+[2023.11.13-16.18.05:998][226]LogSavePackage: Moving output files for package: /Game/WhiteBoxAssetsCombined/Teleport1
+[2023.11.13-16.18.05:998][226]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Teleport19D5DB14B46AB41798E5FB698DC3A610E.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/WhiteBoxAssetsCombined/Teleport1.uasset'
+[2023.11.13-16.18.06:011][226]LogSavePackage: Moving output files for package: /Game/WhiteBoxAssetsCombined/Transparent
+[2023.11.13-16.18.06:011][226]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/TransparentDD1699DD45B66303C1B8BAB49154995A.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/WhiteBoxAssetsCombined/Transparent.uasset'
+[2023.11.13-16.18.06:012][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Maps/Adin_Farid_Animation/C/JT/R2YWXY8MMZTP25A9GFOD8D
+[2023.11.13-16.18.06:012][226]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/R2YWXY8MMZTP25A9GFOD8DA16382B0427D0FB6FB1EBDAAB9394F7E.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/__ExternalActors__/StarterContent/Maps/Adin_Farid_Animation/C/JT/R2YWXY8MMZTP25A9GFOD8D.uasset'
+[2023.11.13-16.18.06:028][226]LogSavePackage: Moving output files for package: /Game/WhiteBoxAssetsCombined/WhiteBoxAssets
+[2023.11.13-16.18.06:028][226]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/WhiteBoxAssetsA486C0424691D3238FE56598F1223A20.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/WhiteBoxAssetsCombined/WhiteBoxAssets.uasset'
+[2023.11.13-16.18.06:029][226]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Maps/Adin_Farid_Animation/4/KW/LRVR9CCY0ZXVMP22NAIXAU
+[2023.11.13-16.18.06:029][226]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/LRVR9CCY0ZXVMP22NAIXAU6991102E4E07C7F5DF0764BE954370F7.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/__ExternalActors__/StarterContent/Maps/Adin_Farid_Animation/4/KW/LRVR9CCY0ZXVMP22NAIXAU.uasset'
+[2023.11.13-16.18.06:034][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.11 sec (total: 2.84 sec)
+[2023.11.13-16.18.06:034][226]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TeacherOrders.TeacherOrders
+[2023.11.13-16.18.06:035][226]Cmd: MAP LOAD FILE="../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/TeacherOrders.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.13-16.18.06:035][226]LightingResults: New page: Lighting Build
+[2023.11.13-16.18.06:035][226]LoadErrors: New page: Loading map: TeacherOrders.umap
+[2023.11.13-16.18.06:085][226]LogWorld: UWorld::CleanupWorld for Adin_Farid_Animation, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-16.18.06:085][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-16.18.06:086][226]LogContentBundle: [Adin_Farid_Animation(Standalone)] Deleting container.
+[2023.11.13-16.18.06:087][226]MapCheck: New page: Map Check
+[2023.11.13-16.18.06:087][226]LightingResults: New page: Lighting Build
+[2023.11.13-16.18.06:088][226]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.13-16.18.06:098][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.13-16.18.06:100][226]LogWorld: UWorld::CleanupWorld for TeacherOrders, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-16.18.06:100][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-16.18.06:103][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.11.13-16.18.06:105][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.11.13-16.18.06:107][226]LogAudio: Display: Audio Device (ID: 1) registered with world 'TeacherOrders'.
+[2023.11.13-16.18.06:107][226]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.13-16.18.06:107][226]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.13-16.18.06:107][226]LogAIModule: Creating AISystem for world TeacherOrders
+[2023.11.13-16.18.06:113][226]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.13-16.18.06:117][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.11.13-16.18.06:118][226]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.13-16.18.06:118][226]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,062ms to complete.
+[2023.11.13-16.18.06:121][226]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.13-16.18.06:121][226]LogContentValidation: Display: Validating /Script/Engine.Material /Game/WhiteBoxAssetsCombined/ForceFieldBlue.ForceFieldBlue
+[2023.11.13-16.18.06:121][226]LogContentValidation: Display: Validating /Script/Engine.Material /Game/WhiteBoxAssetsCombined/lambert1.lambert1
+[2023.11.13-16.18.06:121][226]LogContentValidation: Display: Validating /Script/Engine.Material /Game/WhiteBoxAssetsCombined/Shiny_Blue.Shiny_Blue
+[2023.11.13-16.18.06:121][226]LogContentValidation: Display: Validating /Script/Engine.Material /Game/WhiteBoxAssetsCombined/Shiny_Violet.Shiny_Violet
+[2023.11.13-16.18.06:121][226]LogContentValidation: Display: Validating /Script/Engine.Material /Game/WhiteBoxAssetsCombined/Teleport1.Teleport1
+[2023.11.13-16.18.06:121][226]LogContentValidation: Display: Validating /Script/Engine.Material /Game/WhiteBoxAssetsCombined/Transparent.Transparent
+[2023.11.13-16.18.06:121][226]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
+[2023.11.13-16.18.21:046][963]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2023.11.13-16.18.21:065][963]LogSlate: Took 0.002822 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.11.13-16.18.21:990][ 73]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2023.11.13-16.18.22:702][153]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2023.11.13-16.18.23:257][217]LogEditor: Attempting to add actor of class 'VolumetricCloud' to level at 0.00,0.00,0.00
+[2023.11.13-16.18.24:846][403]LogEditor: Attempting to add actor of class 'ExponentialHeightFog' to level at 0.00,0.00,0.00
+[2023.11.13-16.18.52:002][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Box/Box.Box
+[2023.11.13-16.18.52:002][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Box/Box.Box
+[2023.11.13-16.18.52:003][615]LogActorFactory: Actor Factory spawned StaticMesh /Game/Box/Box.Box as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_0
+[2023.11.13-16.18.53:180][744]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Box/Box.Box
+[2023.11.13-16.18.53:180][744]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Box/Box.Box
+[2023.11.13-16.18.53:181][744]LogActorFactory: Actor Factory spawned StaticMesh /Game/Box/Box.Box as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_1
+[2023.11.13-16.19.00:409][601]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.13-16.19.00:542][617]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.13-16.19.33:994][543]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
+[2023.11.13-16.19.33:994][543]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
+[2023.11.13-16.19.33:995][543]LogActorFactory: Actor Factory spawned StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_2
+[2023.11.13-16.19.41:372][425]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
+[2023.11.13-16.19.41:372][425]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets
+[2023.11.13-16.19.41:373][425]LogActorFactory: Actor Factory spawned StaticMesh /Game/WhiteBoxAssetsCombined/WhiteBoxAssets.WhiteBoxAssets as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_3
+[2023.11.13-16.20.22:468][306]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TrashCan/TrashCan_Lowpoly_FBX_.TrashCan_Lowpoly_FBX_
+[2023.11.13-16.20.22:469][306]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TrashCan/TrashCan_Lowpoly_FBX_.TrashCan_Lowpoly_FBX_
+[2023.11.13-16.20.22:469][306]LogActorFactory: Actor Factory spawned StaticMesh /Game/TrashCan/TrashCan_Lowpoly_FBX_.TrashCan_Lowpoly_FBX_ as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_4
+[2023.11.13-16.20.28:451][ 20]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TrashCan/TrashCan_Lowpoly_FBX_.TrashCan_Lowpoly_FBX_
+[2023.11.13-16.20.28:451][ 20]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TrashCan/TrashCan_Lowpoly_FBX_.TrashCan_Lowpoly_FBX_
+[2023.11.13-16.20.28:452][ 20]LogActorFactory: Actor Factory spawned StaticMesh /Game/TrashCan/TrashCan_Lowpoly_FBX_.TrashCan_Lowpoly_FBX_ as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_5
+[2023.11.13-16.21.47:945][536]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.13-16.21.48:086][553]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.13-16.23.56:427][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.23.56:427][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.23.56:428][839]LogActorFactory: Actor Factory spawned StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_ as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_6
+[2023.11.13-16.23.58:506][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.23.58:506][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.23.58:507][ 84]LogActorFactory: Actor Factory spawned StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_ as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_7
+[2023.11.13-16.23.59:986][256]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.23.59:986][256]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.23.59:986][256]LogActorFactory: Actor Factory spawned StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_ as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_8
+[2023.11.13-16.24.01:247][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.24.01:247][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.24.01:248][402]LogActorFactory: Actor Factory spawned StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_ as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_9
+[2023.11.13-16.24.01:628][440]Cmd: TRANSACTION UNDO
+[2023.11.13-16.24.01:628][440]LogEditorTransaction: Undo Create Actors
+[2023.11.13-16.24.06:746][987]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.24.06:746][987]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.24.06:746][987]LogActorFactory: Actor Factory spawned StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_ as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_10
+[2023.11.13-16.24.12:882][721]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.24.12:882][721]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_
+[2023.11.13-16.24.12:883][721]LogActorFactory: Actor Factory spawned StaticMesh /Game/CoffeeCan/CoffeeCan_LowPoly_FBX_.CoffeeCan_LowPoly_FBX_ as actor: StaticMeshActor /Game/TeacherOrders.TeacherOrders:PersistentLevel.StaticMeshActor_11
+[2023.11.13-16.25.23:915][186]Cmd: TRANSACTION UNDO
+[2023.11.13-16.25.23:915][186]LogEditorTransaction: Undo Set Location
+[2023.11.13-16.26.07:097][193]LogEditorViewport: Clicking Background
+[2023.11.13-16.27.11:583][830]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.13-16.28.05:333][240]LogViewport: Scene viewport resized to 2105x1260, mode Windowed.
+[2023.11.13-16.28.10:567][840]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2023.11.13-16.28.10:567][840]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2023.11.13-16.28.13:540][182]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2023.11.13-16.28.13:540][182]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2023.11.13-16.28.18:745][800]LogEditorViewport: Clicking Background
+[2023.11.13-16.29.23:111][497]LogEditorViewport: Clicking Background
+[2023.11.13-16.30.41:031][780]LogEditorViewport: Clicking Background
+[2023.11.13-16.31.15:652][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.11.13-16.31.15:654][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-16.31.15:686][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TeacherOrders" FILE="../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/TeacherOrders.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.13-16.31.15:704][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.11.13-16.31.15:707][898]LogSavePackage: Moving output files for package: /Game/TeacherOrders
+[2023.11.13-16.31.15:707][898]LogSavePackage: Moving '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/TeacherOrdersFABFE86942B5E07EB139CDB9DF353709.tmp' to '../../../../../../Users/adfa8505/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/TeacherOrders.umap'
+[2023.11.13-16.31.15:713][898]LogFileHelpers: Saving map 'TeacherOrders' took 0.027
+[2023.11.13-16.31.15:717][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.90 sec)
+[2023.11.13-16.31.15:719][898]AssetCheck: New page: Asset Save: TeacherOrders
+[2023.11.13-16.31.15:719][898]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeacherOrders.TeacherOrders
