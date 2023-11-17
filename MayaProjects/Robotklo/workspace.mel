@@ -1,4 +1,4 @@
-//Maya 2023 Project Definition
+//Maya 2024 Project Definition
 
 workspace -fr "fluidCache" "cache/nCache/fluid";
 workspace -fr "JT_ATF" "data";
@@ -46,6 +46,7 @@ workspace -fr "particles" "cache/particles";
 workspace -fr "DXF_ATF" "data";
 workspace -fr "scene" "scenes";
 workspace -fr "USD Export" "data";
+workspace -fr "mayaLT" "";
 workspace -fr "SAT_ATF" "data";
 workspace -fr "PROE_ATF" "data";
 workspace -fr "WIRE_ATF Export" "data";
