@@ -2002,3 +2002,846 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.10-19.56.54:230][771]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Animations/Car_Animation_FastCar_Animation_Fast_Skeleton.Car_Animation_FastCar_Animation_Fast_Skeleton
 [2023.12.10-19.56.54:230][771]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Animations/Car_Animation_FastCar_Animation_Fast_PhysicsAsset.Car_Animation_FastCar_Animation_Fast_PhysicsAsset
 [2023.12.10-19.56.54:230][771]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/Car_Animation_FastCar_Animation_Fast_Anim.Car_Animation_FastCar_Animation_Fast_Anim
+[2023.12.10-20.02.13:812][438]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.10-20.02.13:825][438]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.10-20.02.13:832][439]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.10-20.02.15:841][642]LogContentBrowser: Attempting asset rename: NewFolder -> Car
+[2023.12.10-20.02.15:842][642]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.10-20.03.27:959][407]LogInterchangeEngine: [Pending] Importing
+[2023.12.10-20.03.27:959][407]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/adinf/OneDr...Textures/CarTexture1/standardSurface1_Base_color.png]
+[2023.12.10-20.03.27:961][407]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.12.10-20.03.27:961][407]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/adinf/OneDr...Textures/CarTexture1/standardSurface1_Height.png]
+[2023.12.10-20.03.27:961][407]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.12.10-20.03.27:961][407]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/adinf/OneDr...Textures/CarTexture1/standardSurface1_Metallic.png]
+[2023.12.10-20.03.27:961][407]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.12.10-20.03.27:961][407]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/adinf/OneDr...Textures/CarTexture1/standardSurface1_Normal.png]
+[2023.12.10-20.03.27:962][407]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.12.10-20.03.27:962][407]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/adinf/OneDr...Textures/CarTexture1/standardSurface1_Normal_OpenGL.png]
+[2023.12.10-20.03.27:962][407]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.12.10-20.03.27:978][408]LogTexture: Display: Building textures: /Game/Car/standardSurface1_Height.standardSurface1_Height (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 98.645823 MB), EncodeSpeed: Fast
+[2023.12.10-20.03.27:980][408]LogTexture: Display: Building textures: /Game/Car/standardSurface1_Metallic.standardSurface1_Metallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 98.645823 MB), EncodeSpeed: Fast
+[2023.12.10-20.03.27:996][408]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.12.10-20.03.27:996][408]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.12.10-20.03.27:996][408]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/adinf/OneDr...Textures/CarTexture1/standardSurface1_Roughness.png]
+[2023.12.10-20.03.27:996][408]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.12.10-20.03.28:014][408]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.12.10-20.03.28:020][408]LogTexture: Display: Building textures: /Game/Car/standardSurface1_Normal_OpenGL.standardSurface1_Normal_OpenGL (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2023.12.10-20.03.28:031][408]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.12.10-20.03.28:033][408]LogTexture: Display: Building textures: /Game/Car/standardSurface1_Normal.standardSurface1_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2023.12.10-20.03.28:035][408]LogTexture: Display: Building textures: /Game/Car/standardSurface1_Base_color.standardSurface1_Base_color (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2023.12.10-20.03.28:079][408]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.12.10-20.03.28:080][408]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.12.10-20.03.28:080][408]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.12.10-20.03.28:080][408]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.12.10-20.03.28:148][409]LogTexture: Display: Building textures: /Game/Car/standardSurface1_Roughness.standardSurface1_Roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 98.645823 MB), EncodeSpeed: Fast
+[2023.12.10-20.03.28:153][409]LogInterchangeEngine: [Success] Import Done
+[2023.12.10-20.03.28:359][410]LogInterchangeEngine: [Success] Import Done
+[2023.12.10-20.04.10:061][888]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/MayaProjectExports/CarLowPolyFinished.fbx)
+[2023.12.10-20.04.10:065][888]LogFbx: Loading FBX Scene from ../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/MayaProjectExports/CarLowPolyFinished.fbx
+[2023.12.10-20.04.10:069][888]LogFbx: FBX Scene Loaded Succesfully
+[2023.12.10-20.04.16:183][888]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.12.10-20.04.16:237][888]LogFbx: Display: Triangulating static mesh CarLowPolyFinished
+[2023.12.10-20.04.16:328][888]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.12.10-20.04.16:328][888]FBXImport: Error: Mesh name: [CarLowPolyFinished] part name: [CarLowPolyFinished]  could not be created because all of its polygons are degenerate. 
+[2023.12.10-20.04.16:328][888]FBXImport: Error: Import failed. 
+[2023.12.10-20.04.22:123][888]LogSlate: Window 'Message' being destroyed
+[2023.12.10-20.04.22:126][888]Message dialog closed, result: Ok, title: Message, text: Failed to import '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/MayaProjectExports/CarLowPolyFinished.fbx'. Failed to create asset '/Game/Car/CarLowPolyFinished'.
+Please see Output Log for details.
+[2023.12.10-20.04.22:126][888]LogAssetTools: Warning: Failed to import '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/MayaProjectExports/CarLowPolyFinished.fbx'. Failed to create asset '/Game/Car/CarLowPolyFinished'.
+Please see Output Log for details.
+[2023.12.10-20.04.34:650][ 41]LogSlate: Window 'Message Log' being destroyed
+[2023.12.10-20.04.34:656][ 41]LogSlate: Window 'Message Log' being destroyed
+[2023.12.10-20.04.35:600][137]LogEditorViewport: Clicking Background
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: ================================================
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Total job queries 296, among them cache hits 118 (39.86%)
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Tracking 91 distinct input hashes that result in 60 distinct outputs (65.93%)
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: RAM used: 1,99 MiB of 819,20 MiB budget. Usage: 0.24%
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Shaders Compiled: 28
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Jobs assigned 28, completed 28 (100%)
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Average time worker was idle: 255.55 s
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Time job spent in pending queue: average 0.32 s, longest 0.79 s
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Job execution time: average 0.48 s, max 0.75 s
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Job life time (pending + execution): average 0.80 s, max 1.29
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Shader code size: average 40,533 KiB, min 31,809 KiB, max 60,766 KiB
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.18 s
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Average processing rate: 12.84 jobs/sec
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Total thread time: 7,377 s
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Total thread preprocess time: 0,823 s
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Percentage time preprocessing: 11.16%
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Effective parallelization: 3.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.49 sec, min 0.48 sec)
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.32 sec, max 0.34 sec, min 0.26 sec)
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2023.12.10-20.04.36:759][258]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2023.12.10-20.04.36:760][258]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2023.12.10-20.04.36:760][258]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.10-20.04.36:760][258]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.08% of total time (compiled    4 times, average 0.32 sec, max 0.34 sec, min 0.26 sec)
+[2023.12.10-20.04.36:760][258]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.12% of total time (compiled    4 times, average 0.28 sec, max 0.31 sec, min 0.18 sec)
+[2023.12.10-20.04.36:760][258]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.21% of total time (compiled    2 times, average 0.49 sec, max 0.49 sec, min 0.48 sec)
+[2023.12.10-20.04.36:760][258]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.40% of total time (compiled    3 times, average 0.28 sec, max 0.31 sec, min 0.26 sec)
+[2023.12.10-20.04.36:760][258]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.31% of total time (compiled    3 times, average 0.13 sec, max 0.15 sec, min 0.12 sec)
+[2023.12.10-20.04.36:760][258]LogShaderCompilers: Display: ================================================
+[2023.12.10-20.04.47:356][227]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.12.10-20.04.47:356][227]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.12.10-20.04.50:342][572]LogMetaData: Removing '/Game/Car/Animations/Car_Animation_FastCar_Animation_Fast.Car_Animation_FastCar_Animation_Fast' ref from Metadata '/Game/Animations/Car_Animation_FastCar_Animation_Fast.PackageMetaData'
+[2023.12.10-20.04.50:344][572]LogMetaData: Removing '/Game/Car/Animations/Car_Animation_FastCar_Animation_Fast_Anim.Car_Animation_FastCar_Animation_Fast_Anim' ref from Metadata '/Game/Animations/Car_Animation_FastCar_Animation_Fast_Anim.PackageMetaData'
+[2023.12.10-20.04.50:354][572]LogMetaData: Removing '/Game/Car/Animations/Car_Animation_FastCar_Animation_Fast_Skeleton.Car_Animation_FastCar_Animation_Fast_Skeleton' ref from Metadata '/Game/Animations/Car_Animation_FastCar_Animation_Fast_Skeleton.PackageMetaData'
+[2023.12.10-20.04.50:355][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.10-20.04.50:374][572]LogSavePackage: Moving output files for package: /Game/Car/Animations/standardSurface2
+[2023.12.10-20.04.50:374][572]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface2EFD8F59E4FB1C9FA938662834E695E57.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Animations/standardSurface2.uasset'
+[2023.12.10-20.04.50:381][572]LogSavePackage: Moving output files for package: /Game/Car/Animations/Car_Animation_FastCar_Animation_Fast
+[2023.12.10-20.04.50:381][572]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Car_Animation_FastCar_Animation_42D641664E4F29D25F1E008EAA8782A1.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Animations/Car_Animation_FastCar_Animation_Fast.uasset'
+[2023.12.10-20.04.50:383][572]LogSavePackage: Moving output files for package: /Game/Animations/Car_Animation_FastCar_Animation_Fast
+[2023.12.10-20.04.50:384][572]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Car_Animation_FastCar_Animation_C4BB64614BC09FB4B554379E7F605A15.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Animations/Car_Animation_FastCar_Animation_Fast.uasset'
+[2023.12.10-20.04.50:387][572]LogSavePackage: Moving output files for package: /Game/Car/Animations/Car_Animation_FastCar_Animation_Fast_Anim
+[2023.12.10-20.04.50:387][572]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Car_Animation_FastCar_Animation_5F283DB148975E9B7D38E096CA65451E.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Animations/Car_Animation_FastCar_Animation_Fast_Anim.uasset'
+[2023.12.10-20.04.50:389][572]LogSavePackage: Moving output files for package: /Game/Animations/Car_Animation_FastCar_Animation_Fast_Anim
+[2023.12.10-20.04.50:389][572]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Car_Animation_FastCar_Animation_1D45AFA34B312896F06853B0620CF338.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Animations/Car_Animation_FastCar_Animation_Fast_Anim.uasset'
+[2023.12.10-20.04.50:391][572]LogSavePackage: Moving output files for package: /Game/Car/Animations/Car_Animation_FastCar_Animation_Fast_PhysicsAsset
+[2023.12.10-20.04.50:391][572]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Car_Animation_FastCar_Animation_0F6485474AD084C6E30ADF9AE4CE55D5.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Animations/Car_Animation_FastCar_Animation_Fast_PhysicsAsset.uasset'
+[2023.12.10-20.04.50:393][572]LogSavePackage: Moving output files for package: /Game/Car/Animations/Car_Animation_FastCar_Animation_Fast_Skeleton
+[2023.12.10-20.04.50:393][572]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Car_Animation_FastCar_Animation_69329FEA4D3E97BEC3D65787844C6193.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Animations/Car_Animation_FastCar_Animation_Fast_Skeleton.uasset'
+[2023.12.10-20.04.50:400][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 130 ms)
+[2023.12.10-20.04.50:410][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.12.10-20.04.50:414][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.12.10-20.04.50:417][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.12.10-20.04.50:430][572]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.10-20.04.50:430][572]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Car/Animations/standardSurface2.standardSurface2
+[2023.12.10-20.04.50:431][572]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Car/Animations/Car_Animation_FastCar_Animation_Fast.Car_Animation_FastCar_Animation_Fast
+[2023.12.10-20.04.50:431][572]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Animations/Car_Animation_FastCar_Animation_Fast.Car_Animation_FastCar_Animation_Fast
+[2023.12.10-20.04.50:431][572]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Car/Animations/Car_Animation_FastCar_Animation_Fast_Anim.Car_Animation_FastCar_Animation_Fast_Anim
+[2023.12.10-20.04.50:431][572]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Animations/Car_Animation_FastCar_Animation_Fast_Anim.Car_Animation_FastCar_Animation_Fast_Anim
+[2023.12.10-20.04.50:431][572]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Car/Animations/Car_Animation_FastCar_Animation_Fast_PhysicsAsset.Car_Animation_FastCar_Animation_Fast_PhysicsAsset
+[2023.12.10-20.04.50:431][572]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Car/Animations/Car_Animation_FastCar_Animation_Fast_Skeleton.Car_Animation_FastCar_Animation_Fast_Skeleton
+[2023.12.10-20.04.55:429][104]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-20.04.55:478][107]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-20.05.09:457][539]LogContentBrowser: Attempting asset rename: Animations -> Animation
+[2023.12.10-20.05.09:485][539]LogMetaData: Removing '/Game/Car/Animation/Car_Animation_FastCar_Animation_Fast.Car_Animation_FastCar_Animation_Fast' ref from Metadata '/Game/Car/Animations/Car_Animation_FastCar_Animation_Fast.PackageMetaData'
+[2023.12.10-20.05.09:485][539]LogMetaData: Removing '/Game/Car/Animation/Car_Animation_FastCar_Animation_Fast_Anim.Car_Animation_FastCar_Animation_Fast_Anim' ref from Metadata '/Game/Car/Animations/Car_Animation_FastCar_Animation_Fast_Anim.PackageMetaData'
+[2023.12.10-20.05.09:495][539]LogMetaData: Removing '/Game/Car/Animation/Car_Animation_FastCar_Animation_Fast_Skeleton.Car_Animation_FastCar_Animation_Fast_Skeleton' ref from Metadata '/Game/Car/Animations/Car_Animation_FastCar_Animation_Fast_Skeleton.PackageMetaData'
+[2023.12.10-20.05.09:496][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.10-20.05.09:525][539]LogSavePackage: Moving output files for package: /Game/Animations/Car_Animation_FastCar_Animation_Fast
+[2023.12.10-20.05.09:526][539]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Car_Animation_FastCar_Animation_EF20DC394B630BF2A63F9D8A8ADA79F3.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Animations/Car_Animation_FastCar_Animation_Fast.uasset'
+[2023.12.10-20.05.09:527][539]LogSavePackage: Moving output files for package: /Game/Animations/Car_Animation_FastCar_Animation_Fast_Anim
+[2023.12.10-20.05.09:528][539]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Car_Animation_FastCar_Animation_2397C6B641A184C437F9489D2A81B868.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Animations/Car_Animation_FastCar_Animation_Fast_Anim.uasset'
+[2023.12.10-20.05.09:530][539]LogSavePackage: Moving output files for package: /Game/Car/Animation/standardSurface2
+[2023.12.10-20.05.09:530][539]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface2733587A048F4A86FD7D2FAADAF42E525.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Animation/standardSurface2.uasset'
+[2023.12.10-20.05.09:537][539]LogSavePackage: Moving output files for package: /Game/Car/Animation/Car_Animation_FastCar_Animation_Fast
+[2023.12.10-20.05.09:537][539]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Car_Animation_FastCar_Animation_D8D76FB64A481BD60D0EED9E077BFA72.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Animation/Car_Animation_FastCar_Animation_Fast.uasset'
+[2023.12.10-20.05.09:540][539]LogSavePackage: Moving output files for package: /Game/Car/Animation/Car_Animation_FastCar_Animation_Fast_Anim
+[2023.12.10-20.05.09:541][539]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Car_Animation_FastCar_Animation_AC3C1B4D4E933B188FE02E9C0931F83A.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Animation/Car_Animation_FastCar_Animation_Fast_Anim.uasset'
+[2023.12.10-20.05.09:543][539]LogSavePackage: Moving output files for package: /Game/Car/Animation/Car_Animation_FastCar_Animation_Fast_PhysicsAsset
+[2023.12.10-20.05.09:543][539]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Car_Animation_FastCar_Animation_ADFE7A8445722CE5FB90EB93D99211F5.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Animation/Car_Animation_FastCar_Animation_Fast_PhysicsAsset.uasset'
+[2023.12.10-20.05.09:544][539]LogSavePackage: Moving output files for package: /Game/Car/Animation/Car_Animation_FastCar_Animation_Fast_Skeleton
+[2023.12.10-20.05.09:544][539]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Car_Animation_FastCar_Animation_FBB540CF48401D9FE66A908353CA25AF.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Animation/Car_Animation_FastCar_Animation_Fast_Skeleton.uasset'
+[2023.12.10-20.05.09:550][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 184 ms)
+[2023.12.10-20.05.09:561][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.12.10-20.05.09:565][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.12.10-20.05.09:567][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.10-20.05.09:578][539]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.10-20.05.09:578][539]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Animations/Car_Animation_FastCar_Animation_Fast.Car_Animation_FastCar_Animation_Fast
+[2023.12.10-20.05.09:578][539]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Animations/Car_Animation_FastCar_Animation_Fast_Anim.Car_Animation_FastCar_Animation_Fast_Anim
+[2023.12.10-20.05.09:578][539]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Car/Animation/standardSurface2.standardSurface2
+[2023.12.10-20.05.09:578][539]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Car/Animation/Car_Animation_FastCar_Animation_Fast.Car_Animation_FastCar_Animation_Fast
+[2023.12.10-20.05.09:578][539]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Car/Animation/Car_Animation_FastCar_Animation_Fast_Anim.Car_Animation_FastCar_Animation_Fast_Anim
+[2023.12.10-20.05.09:578][539]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Car/Animation/Car_Animation_FastCar_Animation_Fast_PhysicsAsset.Car_Animation_FastCar_Animation_Fast_PhysicsAsset
+[2023.12.10-20.05.09:578][539]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Car/Animation/Car_Animation_FastCar_Animation_Fast_Skeleton.Car_Animation_FastCar_Animation_Fast_Skeleton
+[2023.12.10-20.05.38:985][598]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.10-20.05.39:051][598]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.10-20.05.39:058][599]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.10-20.05.42:359][939]LogContentBrowser: Attempting asset rename: NewFolder -> Texture
+[2023.12.10-20.05.42:359][939]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.10-20.05.47:604][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.10-20.05.47:641][450]LogSavePackage: Moving output files for package: /Game/Car/Texture/standardSurface1_Roughness
+[2023.12.10-20.05.47:641][450]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface1_Roughness7BA9CCDB41E57A5E71D4ACA16606B0D8.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Texture/standardSurface1_Roughness.uasset'
+[2023.12.10-20.05.47:695][450]LogSavePackage: Moving output files for package: /Game/Car/Texture/standardSurface1
+[2023.12.10-20.05.47:695][450]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface115636CFA4BB5BAED5716BAB09E29CE1D.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Texture/standardSurface1.uasset'
+[2023.12.10-20.05.47:714][450]LogSavePackage: Moving output files for package: /Game/Car/Texture/standardSurface1_Base_color
+[2023.12.10-20.05.47:714][450]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface1_Base_color0D0DF5B646680D9DF2B0169DA3FD067B.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Texture/standardSurface1_Base_color.uasset'
+[2023.12.10-20.05.47:720][450]LogSavePackage: Moving output files for package: /Game/Car/Texture/standardSurface1_Height
+[2023.12.10-20.05.47:720][450]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface1_Height5689194C4F26C8D79C9C6DB319504DFB.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Texture/standardSurface1_Height.uasset'
+[2023.12.10-20.05.47:725][450]LogSavePackage: Moving output files for package: /Game/Car/Texture/standardSurface1_Metallic
+[2023.12.10-20.05.47:725][450]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface1_Metallic46FD153948A8BAEE449B7CB5364BF1EE.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Texture/standardSurface1_Metallic.uasset'
+[2023.12.10-20.05.47:737][450]LogSavePackage: Moving output files for package: /Game/Car/Texture/standardSurface1_Normal
+[2023.12.10-20.05.47:737][450]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface1_NormalB9AF3AE34F4C1AA6D74535A5D59D0AAF.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Texture/standardSurface1_Normal.uasset'
+[2023.12.10-20.05.47:748][450]LogSavePackage: Moving output files for package: /Game/Car/Texture/standardSurface1_Normal_OpenGL
+[2023.12.10-20.05.47:748][450]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface1_Normal_OpenGLAA8EBD70423518F4BE2ACABC7DF88733.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Texture/standardSurface1_Normal_OpenGL.uasset'
+[2023.12.10-20.05.47:755][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 335 ms)
+[2023.12.10-20.05.47:770][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.12.10-20.05.47:773][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.12.10-20.05.47:776][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.10-20.05.47:786][450]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.10-20.05.47:786][450]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Car/Texture/standardSurface1_Roughness.standardSurface1_Roughness
+[2023.12.10-20.05.47:787][450]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Car/Texture/standardSurface1.standardSurface1
+[2023.12.10-20.05.47:787][450]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Car/Texture/standardSurface1_Base_color.standardSurface1_Base_color
+[2023.12.10-20.05.47:787][450]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Car/Texture/standardSurface1_Height.standardSurface1_Height
+[2023.12.10-20.05.47:787][450]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Car/Texture/standardSurface1_Metallic.standardSurface1_Metallic
+[2023.12.10-20.05.47:787][450]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Car/Texture/standardSurface1_Normal.standardSurface1_Normal
+[2023.12.10-20.05.47:787][450]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Car/Texture/standardSurface1_Normal_OpenGL.standardSurface1_Normal_OpenGL
+[2023.12.10-20.06.06:887][450]LogContentBrowser: Attempting asset rename: Texture -> Material
+[2023.12.10-20.06.06:917][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.10-20.06.06:947][450]LogSavePackage: Moving output files for package: /Game/Car/Material/standardSurface1
+[2023.12.10-20.06.06:947][450]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface1BD47706445BA73FEA8147AB319698992.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/standardSurface1.uasset'
+[2023.12.10-20.06.06:951][450]LogSavePackage: Moving output files for package: /Game/Car/Material/standardSurface1_Roughness
+[2023.12.10-20.06.06:951][450]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface1_RoughnessE5D1CCBE45C0394661F5518583358771.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/standardSurface1_Roughness.uasset'
+[2023.12.10-20.06.06:955][450]LogSavePackage: Moving output files for package: /Game/Car/Material/standardSurface1_Normal
+[2023.12.10-20.06.06:955][450]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface1_Normal7D67BEBD4AE6A41A6C2291AE2491B506.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/standardSurface1_Normal.uasset'
+[2023.12.10-20.06.06:967][450]LogSavePackage: Moving output files for package: /Game/Car/Material/standardSurface1_Base_color
+[2023.12.10-20.06.06:967][450]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface1_Base_color570920924732A0D68B60C9B75EB8555F.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/standardSurface1_Base_color.uasset'
+[2023.12.10-20.06.06:970][450]LogSavePackage: Moving output files for package: /Game/Car/Material/standardSurface1_Metallic
+[2023.12.10-20.06.06:970][450]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface1_Metallic8632418C4EE4A994526B3C903F7252C0.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/standardSurface1_Metallic.uasset'
+[2023.12.10-20.06.06:975][450]LogSavePackage: Moving output files for package: /Game/Car/Material/standardSurface1_Normal_OpenGL
+[2023.12.10-20.06.06:975][450]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface1_Normal_OpenGL40A0C23E4107007A850DAA8A1BE53F5C.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/standardSurface1_Normal_OpenGL.uasset'
+[2023.12.10-20.06.06:977][450]LogSavePackage: Moving output files for package: /Game/Car/Material/standardSurface1_Height
+[2023.12.10-20.06.06:977][450]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/standardSurface1_Height39D18B524264F457A956C2A29709F66A.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/standardSurface1_Height.uasset'
+[2023.12.10-20.06.06:983][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 401 ms)
+[2023.12.10-20.06.06:997][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.12.10-20.06.07:001][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.12.10-20.06.07:004][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.12.10-20.06.07:014][450]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.10-20.06.07:014][450]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Car/Material/standardSurface1.standardSurface1
+[2023.12.10-20.06.07:014][450]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Car/Material/standardSurface1_Roughness.standardSurface1_Roughness
+[2023.12.10-20.06.07:014][450]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Car/Material/standardSurface1_Normal.standardSurface1_Normal
+[2023.12.10-20.06.07:014][450]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Car/Material/standardSurface1_Base_color.standardSurface1_Base_color
+[2023.12.10-20.06.07:014][450]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Car/Material/standardSurface1_Metallic.standardSurface1_Metallic
+[2023.12.10-20.06.07:014][450]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Car/Material/standardSurface1_Normal_OpenGL.standardSurface1_Normal_OpenGL
+[2023.12.10-20.06.07:014][450]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Car/Material/standardSurface1_Height.standardSurface1_Height
+[2023.12.10-20.06.12:289][985]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.12.10-20.06.16:468][472]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.12.10-20.06.16:473][472]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.12.10-20.06.16:479][473]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.12.10-20.06.27:154][580]LogContentBrowser: Attempting asset rename: NewMaterial -> m_Car
+[2023.12.10-20.06.27:155][580]LogContentBrowser: End creating deferred item NewMaterial
+[2023.12.10-20.06.30:473][876]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Car/Material/m_Car.m_Car
+[2023.12.10-20.06.30:502][876]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-20.06.30:502][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.10-20.06.30:654][876]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.06.30:654][876]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.12.10-20.06.30:654][876]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.06.30:664][876]LogSlate: Took 0.004488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.12.10-20.06.30:668][876]LogViewport: Scene viewport resized to 192x348, mode Windowed.
+[2023.12.10-20.06.30:794][878]MaterialEditorStats: Base pass shader: 187 instructions
+[2023.12.10-20.06.30:794][878]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.12.10-20.06.30:794][878]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.10-20.06.30:794][878]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.12.10-20.06.30:794][878]MaterialEditorStats: Shader Count: 5
+[2023.12.10-20.06.38:133][300]LogViewport: Scene viewport resized to 192x347, mode Windowed.
+[2023.12.10-20.06.38:167][300]LogViewport: Scene viewport resized to 190x341, mode Windowed.
+[2023.12.10-20.06.38:198][300]LogViewport: Scene viewport resized to 186x332, mode Windowed.
+[2023.12.10-20.06.38:230][300]LogViewport: Scene viewport resized to 183x325, mode Windowed.
+[2023.12.10-20.06.38:262][300]LogViewport: Scene viewport resized to 179x317, mode Windowed.
+[2023.12.10-20.06.38:313][300]LogViewport: Scene viewport resized to 174x305, mode Windowed.
+[2023.12.10-20.06.38:334][300]LogViewport: Scene viewport resized to 171x299, mode Windowed.
+[2023.12.10-20.06.38:361][300]LogViewport: Scene viewport resized to 167x294, mode Windowed.
+[2023.12.10-20.06.38:390][300]LogViewport: Scene viewport resized to 163x288, mode Windowed.
+[2023.12.10-20.06.38:418][300]LogViewport: Scene viewport resized to 158x282, mode Windowed.
+[2023.12.10-20.06.38:445][300]LogViewport: Scene viewport resized to 153x276, mode Windowed.
+[2023.12.10-20.06.38:474][300]LogViewport: Scene viewport resized to 149x271, mode Windowed.
+[2023.12.10-20.06.38:501][300]LogViewport: Scene viewport resized to 145x266, mode Windowed.
+[2023.12.10-20.06.38:529][300]LogViewport: Scene viewport resized to 142x263, mode Windowed.
+[2023.12.10-20.06.38:556][300]LogViewport: Scene viewport resized to 140x261, mode Windowed.
+[2023.12.10-20.06.38:584][300]LogViewport: Scene viewport resized to 138x258, mode Windowed.
+[2023.12.10-20.06.38:612][300]LogViewport: Scene viewport resized to 136x257, mode Windowed.
+[2023.12.10-20.06.38:640][300]LogViewport: Scene viewport resized to 135x255, mode Windowed.
+[2023.12.10-20.06.38:667][300]LogViewport: Scene viewport resized to 134x254, mode Windowed.
+[2023.12.10-20.06.38:695][300]LogViewport: Scene viewport resized to 132x252, mode Windowed.
+[2023.12.10-20.06.38:723][300]LogViewport: Scene viewport resized to 131x250, mode Windowed.
+[2023.12.10-20.06.38:751][300]LogViewport: Scene viewport resized to 130x250, mode Windowed.
+[2023.12.10-20.06.38:778][300]LogViewport: Scene viewport resized to 127x249, mode Windowed.
+[2023.12.10-20.06.41:751][480]LogViewport: Scene viewport resized to 127x250, mode Windowed.
+[2023.12.10-20.06.41:787][480]LogViewport: Scene viewport resized to 127x251, mode Windowed.
+[2023.12.10-20.06.41:818][480]LogViewport: Scene viewport resized to 127x254, mode Windowed.
+[2023.12.10-20.06.41:849][480]LogViewport: Scene viewport resized to 127x257, mode Windowed.
+[2023.12.10-20.06.41:880][480]LogViewport: Scene viewport resized to 127x262, mode Windowed.
+[2023.12.10-20.06.41:912][480]LogViewport: Scene viewport resized to 127x269, mode Windowed.
+[2023.12.10-20.06.41:956][480]LogViewport: Scene viewport resized to 127x278, mode Windowed.
+[2023.12.10-20.06.41:985][480]LogViewport: Scene viewport resized to 127x284, mode Windowed.
+[2023.12.10-20.06.42:013][480]LogViewport: Scene viewport resized to 127x289, mode Windowed.
+[2023.12.10-20.06.42:041][480]LogViewport: Scene viewport resized to 127x294, mode Windowed.
+[2023.12.10-20.06.42:068][480]LogViewport: Scene viewport resized to 127x299, mode Windowed.
+[2023.12.10-20.06.42:096][480]LogViewport: Scene viewport resized to 127x305, mode Windowed.
+[2023.12.10-20.06.42:124][480]LogViewport: Scene viewport resized to 127x311, mode Windowed.
+[2023.12.10-20.06.42:150][480]LogViewport: Scene viewport resized to 127x318, mode Windowed.
+[2023.12.10-20.06.42:178][480]LogViewport: Scene viewport resized to 127x325, mode Windowed.
+[2023.12.10-20.06.42:207][480]LogViewport: Scene viewport resized to 127x333, mode Windowed.
+[2023.12.10-20.06.42:236][480]LogViewport: Scene viewport resized to 127x341, mode Windowed.
+[2023.12.10-20.06.42:262][480]LogViewport: Scene viewport resized to 127x349, mode Windowed.
+[2023.12.10-20.06.42:289][480]LogViewport: Scene viewport resized to 127x355, mode Windowed.
+[2023.12.10-20.06.42:318][480]LogViewport: Scene viewport resized to 127x362, mode Windowed.
+[2023.12.10-20.06.42:345][480]LogViewport: Scene viewport resized to 127x367, mode Windowed.
+[2023.12.10-20.06.42:373][480]LogViewport: Scene viewport resized to 127x371, mode Windowed.
+[2023.12.10-20.06.42:400][480]LogViewport: Scene viewport resized to 127x375, mode Windowed.
+[2023.12.10-20.06.42:428][480]LogViewport: Scene viewport resized to 127x376, mode Windowed.
+[2023.12.10-20.06.42:609][480]LogViewport: Scene viewport resized to 127x375, mode Windowed.
+[2023.12.10-20.06.54:990][441]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.06.54:990][441]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.12.10-20.06.54:990][441]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.06.54:990][441]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.06.55:400][462]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.06.55:400][462]MaterialEditorStats: Texture samplers: 1/16
+[2023.12.10-20.06.55:400][462]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.12.10-20.06.55:400][462]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.06.55:400][462]MaterialEditorStats: Shader Count: 2
+[2023.12.10-20.06.55:505][469]MaterialEditorStats: Base pass shader: 197 instructions
+[2023.12.10-20.06.55:505][469]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.06.55:505][469]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.10-20.06.55:505][469]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.12.10-20.06.55:505][469]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.06.55:505][469]MaterialEditorStats: Shader Count: 4
+[2023.12.10-20.07.14:025][961]MaterialEditorStats: Base pass shader: 187 instructions
+[2023.12.10-20.07.14:025][961]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.12.10-20.07.14:025][961]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.10-20.07.14:025][961]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.12.10-20.07.14:025][961]MaterialEditorStats: Shader Count: 5
+[2023.12.10-20.07.17:127][189]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.07.17:127][189]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.12.10-20.07.17:127][189]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.07.17:167][191]MaterialEditorStats: Base pass shader: 187 instructions
+[2023.12.10-20.07.17:167][191]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.12.10-20.07.17:167][191]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.10-20.07.17:167][191]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.12.10-20.07.17:167][191]MaterialEditorStats: Shader Count: 5
+[2023.12.10-20.07.24:337][798]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.07.24:337][798]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.12.10-20.07.24:337][798]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.07.24:337][798]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.07.24:425][800]MaterialEditorStats: Base pass shader: 194 instructions
+[2023.12.10-20.07.24:425][800]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.07.24:425][800]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.10-20.07.24:425][800]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.12.10-20.07.24:425][800]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.07.24:425][800]MaterialEditorStats: Shader Count: 5
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: ================================================
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Total job queries 377, among them cache hits 185 (49.07%)
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Tracking 105 distinct input hashes that result in 66 distinct outputs (62.86%)
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: RAM used: 2,29 MiB of 819,20 MiB budget. Usage: 0.28%
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Shaders Compiled: 35
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Jobs assigned 35, completed 35 (100%)
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Average time worker was idle: 446.59 s
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 0.79 s
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Job execution time: average 0.46 s, max 0.75 s
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Job life time (pending + execution): average 0.73 s, max 1.29
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Shader code size: average 39,706 KiB, min 31,809 KiB, max 60,766 KiB
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.25 s
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Jobs were issued in 35 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Average processing rate: 10.77 jobs/sec
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Total thread time: 9,101 s
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Total thread preprocess time: 1,032 s
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Percentage time preprocessing: 11.34%
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Effective parallelization: 2.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.48 sec, max 0.49 sec, min 0.48 sec)
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.28 sec, max 0.34 sec, min 0.18 sec)
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.65% of total time (compiled    6 times, average 0.28 sec, max 0.34 sec, min 0.18 sec)
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.25% of total time (compiled    6 times, average 0.26 sec, max 0.31 sec, min 0.18 sec)
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.96% of total time (compiled    3 times, average 0.48 sec, max 0.49 sec, min 0.48 sec)
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.91% of total time (compiled    4 times, average 0.27 sec, max 0.31 sec, min 0.24 sec)
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.53% of total time (compiled    4 times, average 0.13 sec, max 0.15 sec, min 0.11 sec)
+[2023.12.10-20.07.37:278][814]LogShaderCompilers: Display: ================================================
+[2023.12.10-20.07.39:055][968]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.07.39:055][968]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.12.10-20.07.39:055][968]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.07.39:055][968]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.07.39:146][971]MaterialEditorStats: Base pass shader: 202 instructions
+[2023.12.10-20.07.39:146][971]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.07.39:146][971]MaterialEditorStats: Texture samplers: 4/16
+[2023.12.10-20.07.39:146][971]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.12.10-20.07.39:146][971]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.07.39:146][971]MaterialEditorStats: Shader Count: 5
+[2023.12.10-20.07.59:928][888]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.07.59:928][888]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.07.59:928][888]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.07.59:928][888]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.08.00:393][904]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.10-20.08.00:393][904]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.08.00:393][904]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.08.00:393][904]MaterialEditorStats: Shader Count: 1
+[2023.12.10-20.08.00:502][910]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.08.00:502][910]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.10-20.08.00:502][910]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.08.00:502][910]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.08.00:502][910]MaterialEditorStats: Shader Count: 3
+[2023.12.10-20.08.00:597][917]MaterialEditorStats: Base pass shader: 206 instructions
+[2023.12.10-20.08.00:597][917]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.08.00:597][917]MaterialEditorStats: Texture samplers: 5/16
+[2023.12.10-20.08.00:597][917]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.08.00:597][917]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.08.00:597][917]MaterialEditorStats: Shader Count: 4
+[2023.12.10-20.08.32:856][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.12.10-20.08.32:858][715]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TeacherOrders' took 0.007
+[2023.12.10-20.08.32:858][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Car/Material/m_Car] ([1] browsable assets)...
+[2023.12.10-20.08.32:932][715]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Car/Material/m_Car.m_Car]
+[2023.12.10-20.08.32:932][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Car/Material/m_Car]
+[2023.12.10-20.08.32:933][715]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Car/Material/m_Car_Auto3
+[2023.12.10-20.08.32:934][715]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/m_Car_Auto32CF7FA7F4A9BD83F5F6CC5B5748D6A44.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Autosaves/Game/Car/Material/m_Car_Auto3.uasset'
+[2023.12.10-20.08.32:934][715]LogFileHelpers: Auto-saving content packages took 0.076
+[2023.12.10-20.15.03:557][255]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.15.03:557][255]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.12.10-20.15.03:557][255]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.15.03:558][255]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.15.03:594][256]LogShaderCompilers: Display: ================================================
+[2023.12.10-20.15.03:594][256]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.10-20.15.03:594][256]LogShaderCompilers: Display: Total job queries 433, among them cache hits 227 (52.42%)
+[2023.12.10-20.15.03:594][256]LogShaderCompilers: Display: Tracking 119 distinct input hashes that result in 72 distinct outputs (60.50%)
+[2023.12.10-20.15.03:594][256]LogShaderCompilers: Display: RAM used: 2,59 MiB of 819,20 MiB budget. Usage: 0.32%
+[2023.12.10-20.15.03:594][256]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.10-20.15.03:594][256]LogShaderCompilers: Display: Shaders Compiled: 40
+[2023.12.10-20.15.03:594][256]LogShaderCompilers: Display: Jobs assigned 40, completed 40 (100%)
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: Average time worker was idle: 386.90 s
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: Time job spent in pending queue: average 0.24 s, longest 0.79 s
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: Job execution time: average 0.47 s, max 0.75 s
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: Job life time (pending + execution): average 0.71 s, max 1.29
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: Shader code size: average 39,496 KiB, min 31,809 KiB, max 60,766 KiB
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.05 s
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: Average processing rate: 9.87 jobs/sec
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: Total thread time: 10,488 s
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: Total thread preprocess time: 1,174 s
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: Percentage time preprocessing: 11.19%
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: Effective parallelization: 2.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.48 sec, max 0.49 sec, min 0.47 sec)
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.28 sec, max 0.34 sec, min 0.18 sec)
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.97% of total time (compiled    7 times, average 0.28 sec, max 0.34 sec, min 0.18 sec)
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.34% of total time (compiled    4 times, average 0.48 sec, max 0.49 sec, min 0.47 sec)
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.41% of total time (compiled    7 times, average 0.26 sec, max 0.31 sec, min 0.18 sec)
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.72% of total time (compiled    5 times, average 0.27 sec, max 0.31 sec, min 0.24 sec)
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.92% of total time (compiled    5 times, average 0.12 sec, max 0.15 sec, min 0.11 sec)
+[2023.12.10-20.15.03:595][256]LogShaderCompilers: Display: ================================================
+[2023.12.10-20.15.03:602][257]MaterialEditorStats: Base pass shader: 202 instructions
+[2023.12.10-20.15.03:602][257]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.15.03:602][257]MaterialEditorStats: Texture samplers: 4/16
+[2023.12.10-20.15.03:602][257]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.12.10-20.15.03:602][257]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.15.03:602][257]MaterialEditorStats: Shader Count: 5
+[2023.12.10-20.15.17:397][322]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.12.10-20.15.32:565][ 47]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.15.32:565][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.15.32:565][ 47]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.15.32:565][ 47]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.15.32:680][ 49]MaterialEditorStats: Base pass shader: 202 instructions
+[2023.12.10-20.15.32:680][ 49]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.15.32:680][ 49]MaterialEditorStats: Texture samplers: 4/16
+[2023.12.10-20.15.32:680][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.15.32:680][ 49]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.15.32:680][ 49]MaterialEditorStats: Shader Count: 5
+[2023.12.10-20.15.36:103][369]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.15.36:103][369]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.15.36:103][369]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.15.36:103][369]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.15.36:191][371]MaterialEditorStats: Base pass shader: 205 instructions
+[2023.12.10-20.15.36:191][371]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.15.36:191][371]MaterialEditorStats: Texture samplers: 5/16
+[2023.12.10-20.15.36:191][371]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.15.36:191][371]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.15.36:191][371]MaterialEditorStats: Shader Count: 5
+[2023.12.10-20.15.43:285][646]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.15.43:285][646]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.15.43:285][646]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.15.43:285][646]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.15.43:377][649]MaterialEditorStats: Base pass shader: 206 instructions
+[2023.12.10-20.15.43:377][649]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.15.43:377][649]MaterialEditorStats: Texture samplers: 5/16
+[2023.12.10-20.15.43:377][649]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.15.43:377][649]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.15.43:377][649]MaterialEditorStats: Shader Count: 5
+[2023.12.10-20.15.51:936][330]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2023.12.10-20.15.54:047][479]LogMaterialEditor: Saving and Compiling material m_Car
+[2023.12.10-20.15.54:094][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.12.10-20.15.54:264][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.12.10-20.15.54:273][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.10-20.15.54:394][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Car/Material/m_Car" FILE="../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/m_Car.uasset" SILENT=true
+[2023.12.10-20.15.54:396][479]LogSavePackage: Moving output files for package: /Game/Car/Material/m_Car
+[2023.12.10-20.15.54:396][479]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/m_Car906B866846CB7FC1B0B76DA4371858CC.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/m_Car.uasset'
+[2023.12.10-20.15.54:402][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 531 ms)
+[2023.12.10-20.15.54:403][479]AssetCheck: New page: Asset Save: m_Car
+[2023.12.10-20.15.54:403][479]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Car/Material/m_Car.m_Car
+[2023.12.10-20.15.54:404][479]MaterialEditorStats: Base pass shader: 206 instructions
+[2023.12.10-20.15.54:404][479]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.15.54:404][479]MaterialEditorStats: MaxSampler: 270 instructions
+[2023.12.10-20.15.54:404][479]MaterialEditorStats: Texture samplers: 6/16
+[2023.12.10-20.15.54:404][479]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.15.54:404][479]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.15.54:404][479]MaterialEditorStats: Shader Count: 20
+[2023.12.10-20.16.23:089][101]LogMaterial: Display: Material /Game/Car/Material/m_Car.m_Car needed to have new flag set bUsedWithSkeletalMesh !
+[2023.12.10-20.16.23:090][101]LogMaterial: Display: Material /Engine/Transient.m_Car needed to have new flag set bUsedWithSkeletalMesh !
+[2023.12.10-20.16.23:131][101]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.16.23:131][101]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.16.23:131][101]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.16.23:131][101]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.16.23:181][102]MaterialEditorStats: Base pass shader: 206 instructions
+[2023.12.10-20.16.23:181][102]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.16.23:181][102]MaterialEditorStats: MaxSampler: 270 instructions
+[2023.12.10-20.16.23:181][102]MaterialEditorStats: Texture samplers: 6/16
+[2023.12.10-20.16.23:181][102]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.16.23:181][102]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.16.23:181][102]MaterialEditorStats: Shader Count: 20
+[2023.12.10-20.16.24:284][210]MaterialEditorStats: Base pass shader: 206 instructions
+[2023.12.10-20.16.24:284][210]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.16.24:284][210]MaterialEditorStats: MaxSampler: 270 instructions
+[2023.12.10-20.16.24:284][210]MaterialEditorStats: Base pass vertex shader: 275 instructions
+[2023.12.10-20.16.24:284][210]MaterialEditorStats: Texture samplers: 6/16
+[2023.12.10-20.16.24:284][210]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.16.24:284][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.16.24:284][210]MaterialEditorStats: Shader Count: 29
+[2023.12.10-20.16.27:393][561]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.12.10-20.16.27:393][561]Can't find target element.
+[2023.12.10-20.16.29:013][729]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-20.16.29:633][797]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.12.10-20.18.33:436][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.12.10-20.18.33:442][511]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TeacherOrders_Auto4
+[2023.12.10-20.18.33:443][511]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/TeacherOrders_Auto46C1CC9A847E02F8519A0F7BB90C5033B.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Autosaves/Game/TeacherOrders_Auto4.umap'
+[2023.12.10-20.18.33:444][511]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Autosaves/Game/TeacherOrders_Auto4.umap is in the /Temp path, will not scan.
+[2023.12.10-20.18.33:444][511]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TeacherOrders' took 0.012
+[2023.12.10-20.18.33:444][511]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.012
+[2023.12.10-20.18.33:444][511]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Car/Material/m_Car] ([1] browsable assets)...
+[2023.12.10-20.18.33:444][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/Car/Material/m_Car]
+[2023.12.10-20.18.33:446][511]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Car/Material/m_Car_Auto4
+[2023.12.10-20.18.33:446][511]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/m_Car_Auto411C32D3546EEF483425DB3A1491BD7E3.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Autosaves/Game/Car/Material/m_Car_Auto4.uasset'
+[2023.12.10-20.18.33:447][511]LogFileHelpers: Auto-saving content packages took 0.002
+[2023.12.10-20.20.11:993][889]LogSlate: Window 'm_Car' being destroyed
+[2023.12.10-20.20.11:997][889]LogSlate: Window 'm_Car' being destroyed
+[2023.12.10-20.20.12:012][889]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.12.10-20.20.12:012][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.10-20.20.12:018][889]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.12.10-20.20.12:018][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.10-20.20.12:048][889]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.12.10-20.20.12:048][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.10-20.20.12:064][889]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.12.10-20.20.12:064][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.10-20.20.17:890][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.12.10-20.20.18:855][490]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.10-20.20.18:865][490]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/Car/Material/m_Car.m_Car
+	Asset Type: Material
+	Asset Name: /Game/Car/Material/standardSurface1.standardSurface1
+	Asset Type: Material
+	Asset Name: /Game/Car/Material/standardSurface1_Base_color.standardSurface1_Base_color
+	Asset Type: Texture2D
+	Asset Name: /Game/Car/Material/standardSurface1_Height.standardSurface1_Height
+	Asset Type: Texture2D
+	Asset Name: /Game/Car/Material/standardSurface1_Metallic.standardSurface1_Metallic
+	Asset Type: Texture2D
+	Asset Name: /Game/Car/Material/standardSurface1_Normal.standardSurface1_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/Car/Material/standardSurface1_Normal_OpenGL.standardSurface1_Normal_OpenGL
+	Asset Type: Texture2D
+	Asset Name: /Game/Car/Material/standardSurface1_Roughness.standardSurface1_Roughness
+	Asset Type: Texture2D
+[2023.12.10-20.20.18:944][490]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_Car: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.12.10-20.20.18:947][490]LogMaterial: Warning: [AssetLog] /Engine/Transient.m_Car: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.12.10-20.20.18:949][490]LogMaterial: Warning: [AssetLog] C:\Users\adinf\OneDrive\Documents\GitHub\3DM2023\Adin_Farid_3DM\Content\Car\Material\m_Car.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.12.10-20.20.18:949][490]LogMaterial: Warning: [AssetLog] C:\Users\adinf\OneDrive\Documents\GitHub\3DM2023\Adin_Farid_3DM\Content\Car\Material\m_Car.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.12.10-20.20.18:982][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.12.10-20.20.18:984][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.12.10-20.20.18:987][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.12.10-20.22.09:718][ 89]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-20.22.22:877][523]LogInterchangeEngine: [Pending] Importing
+[2023.12.10-20.22.22:877][523]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/adinf/OneDr...Textures/CarTexture1/CarLowPolyFinished_standardSurface1_BaseColor.png]
+[2023.12.10-20.22.22:877][523]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.12.10-20.22.22:877][523]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/adinf/OneDr...Textures/CarTexture1/CarLowPolyFinished_standardSurface1_Normal.png]
+[2023.12.10-20.22.22:877][523]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.12.10-20.22.22:877][523]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/adinf/OneDr...Textures/CarTexture1/CarLowPolyFinished_standardSurface1_OcclusionRoughnessMetallic.png]
+[2023.12.10-20.22.22:913][524]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.12.10-20.22.22:915][524]LogTexture: Display: Building textures: /Game/Car/Material/CarLowPolyFinished_standardSurface1_Normal.CarLowPolyFinished_standardSurface1_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2023.12.10-20.22.22:917][524]LogTexture: Display: Building textures: /Game/Car/Material/CarLowPolyFinished_standardSurface1_OcclusionRoughnessMetallic.CarLowPolyFinished_standardSurface1_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2023.12.10-20.22.22:918][524]LogTexture: Display: Building textures: /Game/Car/Material/CarLowPolyFinished_standardSurface1_BaseColor.CarLowPolyFinished_standardSurface1_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2023.12.10-20.22.22:925][524]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.12.10-20.22.22:927][524]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.12.10-20.22.22:927][524]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.12.10-20.22.22:927][524]LogInterchangeEngine: [Success] Import Done
+[2023.12.10-20.22.23:114][525]LogInterchangeEngine: [Success] Import Done
+[2023.12.10-20.22.30:434][222]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.12.10-20.22.30:441][222]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.12.10-20.22.30:449][223]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.12.10-20.22.35:242][710]LogContentBrowser: Attempting asset rename: NewMaterial -> m_Car
+[2023.12.10-20.22.35:243][710]LogContentBrowser: End creating deferred item NewMaterial
+[2023.12.10-20.22.37:274][898]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Car/Material/m_Car.m_Car
+[2023.12.10-20.22.37:277][898]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-20.22.37:278][898]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.10-20.22.37:406][898]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.22.37:406][898]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.12.10-20.22.37:406][898]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.22.37:414][898]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2023.12.10-20.22.37:446][899]LogShaderCompilers: Display: ================================================
+[2023.12.10-20.22.37:446][899]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.10-20.22.37:446][899]LogShaderCompilers: Display: Total job queries 572, among them cache hits 312 (54.55%)
+[2023.12.10-20.22.37:446][899]LogShaderCompilers: Display: Tracking 163 distinct input hashes that result in 91 distinct outputs (55.83%)
+[2023.12.10-20.22.37:446][899]LogShaderCompilers: Display: RAM used: 3,67 MiB of 819,20 MiB budget. Usage: 0.45%
+[2023.12.10-20.22.37:446][899]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.10-20.22.37:446][899]LogShaderCompilers: Display: Shaders Compiled: 54
+[2023.12.10-20.22.37:446][899]LogShaderCompilers: Display: Jobs assigned 54, completed 54 (100%)
+[2023.12.10-20.22.37:446][899]LogShaderCompilers: Display: Average time worker was idle: 506.53 s
+[2023.12.10-20.22.37:446][899]LogShaderCompilers: Display: Time job spent in pending queue: average 0.22 s, longest 0.82 s
+[2023.12.10-20.22.37:446][899]LogShaderCompilers: Display: Job execution time: average 0.61 s, max 1.18 s
+[2023.12.10-20.22.37:446][899]LogShaderCompilers: Display: Job life time (pending + execution): average 0.82 s, max 1.29
+[2023.12.10-20.22.37:446][899]LogShaderCompilers: Display: Shader code size: average 41,092 KiB, min 31,809 KiB, max 62,719 KiB
+[2023.12.10-20.22.37:446][899]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.32 s
+[2023.12.10-20.22.37:446][899]LogShaderCompilers: Display: Jobs were issued in 49 batches (only local compilation was used), average 1.10 jobs/batch
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display: Average processing rate: 10.14 jobs/sec
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display: Total thread time: 16,328 s
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display: Total thread preprocess time: 1,794 s
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display: Percentage time preprocessing: 10.99%
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display: Effective parallelization: 3.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.48 sec, max 0.49 sec, min 0.47 sec)
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.40 sec, max 0.52 sec, min 0.28 sec)
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.40 sec, max 0.52 sec, min 0.28 sec)
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.39 sec, max 0.53 sec, min 0.24 sec)
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.37 sec, max 0.48 sec, min 0.26 sec)
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.03% of total time (compiled    8 times, average 0.31 sec, max 0.47 sec, min 0.18 sec)
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.99% of total time (compiled    8 times, average 0.27 sec, max 0.31 sec, min 0.18 sec)
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.78% of total time (compiled    4 times, average 0.48 sec, max 0.49 sec, min 0.47 sec)
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.17% of total time (compiled    5 times, average 0.27 sec, max 0.31 sec, min 0.24 sec)
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.94% of total time (compiled    2 times, average 0.40 sec, max 0.52 sec, min 0.28 sec)
+[2023.12.10-20.22.37:447][899]LogShaderCompilers: Display: ================================================
+[2023.12.10-20.22.37:497][900]MaterialEditorStats: Base pass shader: 187 instructions
+[2023.12.10-20.22.37:497][900]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.12.10-20.22.37:497][900]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.10-20.22.37:497][900]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.12.10-20.22.37:497][900]MaterialEditorStats: Shader Count: 5
+[2023.12.10-20.22.40:662][142]LogViewport: Scene viewport resized to 125x370, mode Windowed.
+[2023.12.10-20.22.50:470][939]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.22.50:470][939]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.12.10-20.22.50:470][939]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.22.50:470][939]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.22.50:561][941]MaterialEditorStats: Base pass shader: 194 instructions
+[2023.12.10-20.22.50:561][941]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.22.50:561][941]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.10-20.22.50:561][941]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.12.10-20.22.50:561][941]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.22.50:561][941]MaterialEditorStats: Shader Count: 5
+[2023.12.10-20.22.56:835][467]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.22.56:835][467]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.12.10-20.22.56:835][467]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.22.56:835][467]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.22.56:928][470]MaterialEditorStats: Base pass shader: 202 instructions
+[2023.12.10-20.22.56:928][470]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.22.56:928][470]MaterialEditorStats: Texture samplers: 4/16
+[2023.12.10-20.22.56:928][470]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.12.10-20.22.56:928][470]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.22.56:928][470]MaterialEditorStats: Shader Count: 5
+[2023.12.10-20.23.09:137][629]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.23.09:137][629]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.23.09:137][629]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.23.09:137][629]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.23.09:890][671]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.10-20.23.09:890][671]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.23.09:890][671]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.23.09:890][671]MaterialEditorStats: Shader Count: 1
+[2023.12.10-20.23.09:997][677]MaterialEditorStats: Base pass shader: 205 instructions
+[2023.12.10-20.23.09:997][677]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.23.09:997][677]MaterialEditorStats: Texture samplers: 5/16
+[2023.12.10-20.23.09:997][677]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.23.09:997][677]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.23.09:997][677]MaterialEditorStats: Shader Count: 4
+[2023.12.10-20.23.12:701][979]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.23.12:701][979]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.23.12:701][979]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.23.12:701][979]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.23.12:837][981]MaterialEditorStats: Base pass shader: 205 instructions
+[2023.12.10-20.23.12:837][981]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.23.12:837][981]MaterialEditorStats: Texture samplers: 5/16
+[2023.12.10-20.23.12:837][981]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.23.12:837][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.23.12:837][981]MaterialEditorStats: Shader Count: 5
+[2023.12.10-20.23.15:153][191]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.23.15:153][191]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.23.15:153][191]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.23.15:153][191]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.23.15:246][194]MaterialEditorStats: Base pass shader: 206 instructions
+[2023.12.10-20.23.15:246][194]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.23.15:246][194]MaterialEditorStats: Texture samplers: 5/16
+[2023.12.10-20.23.15:246][194]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.23.15:246][194]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.23.15:246][194]MaterialEditorStats: Shader Count: 5
+[2023.12.10-20.23.17:269][352]LogMaterialEditor: Saving and Compiling material m_Car
+[2023.12.10-20.23.17:363][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.12.10-20.23.17:506][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.12.10-20.23.17:515][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.10-20.23.17:590][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Car/Material/m_Car" FILE="../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/m_Car.uasset" SILENT=true
+[2023.12.10-20.23.17:591][352]LogSavePackage: Moving output files for package: /Game/Car/Material/m_Car
+[2023.12.10-20.23.17:592][352]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/m_CarA585453C43E35E3E8BD154884E8131AF.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/m_Car.uasset'
+[2023.12.10-20.23.17:598][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 614 ms)
+[2023.12.10-20.23.17:599][352]AssetCheck: New page: Asset Save: m_Car
+[2023.12.10-20.23.17:599][352]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Car/Material/m_Car.m_Car
+[2023.12.10-20.23.17:600][352]MaterialEditorStats: Base pass shader: 206 instructions
+[2023.12.10-20.23.17:600][352]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.23.17:600][352]MaterialEditorStats: MaxSampler: 270 instructions
+[2023.12.10-20.23.17:600][352]MaterialEditorStats: Texture samplers: 6/16
+[2023.12.10-20.23.17:600][352]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.23.17:600][352]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.23.17:600][352]MaterialEditorStats: Shader Count: 20
+[2023.12.10-20.23.23:864][956]LogMaterial: Display: Material /Game/Car/Material/m_Car.m_Car needed to have new flag set bUsedWithSkeletalMesh !
+[2023.12.10-20.23.23:864][956]LogMaterial: Display: Material /Engine/Transient.m_Car needed to have new flag set bUsedWithSkeletalMesh !
+[2023.12.10-20.23.23:904][956]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.10-20.23.23:904][956]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.23.23:904][956]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.23.23:904][956]MaterialEditorStats: Shader Count: 0
+[2023.12.10-20.23.23:980][957]MaterialEditorStats: Base pass shader: 206 instructions
+[2023.12.10-20.23.23:980][957]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.10-20.23.23:980][957]MaterialEditorStats: MaxSampler: 270 instructions
+[2023.12.10-20.23.23:980][957]MaterialEditorStats: Base pass vertex shader: 275 instructions
+[2023.12.10-20.23.23:980][957]MaterialEditorStats: Texture samplers: 6/16
+[2023.12.10-20.23.23:980][957]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.10-20.23.23:980][957]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.10-20.23.23:980][957]MaterialEditorStats: Shader Count: 34
+[2023.12.10-20.23.36:707][280]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.10-20.23.36:711][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.10-20.23.36:711][280]PIE: New page: PIE session: TeacherOrders (10 dec. 2023 22:23:36)
+[2023.12.10-20.23.36:711][280]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TeacherOrders
+[2023.12.10-20.23.36:713][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001564s)
+[2023.12.10-20.23.36:713][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TeacherOrders.TeacherOrders to /Game/UEDPIE_0_TeacherOrders.TeacherOrders (0.001588s)
+[2023.12.10-20.23.36:716][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.12.10-20.23.36:718][280]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-20.23.36:718][280]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.10-20.23.36:718][280]LogAIModule: Creating AISystem for world TeacherOrders
+[2023.12.10-20.23.36:718][280]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2023.12.10-20.23.36:718][280]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.12.10-20.23.36:718][280]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.10-20.23.36:718][280]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.10-20.23.36:718][280]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.10-20.23.36:718][280]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.10-20.23.36:718][280]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.10-20.23.36:718][280]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.10-20.23.36:718][280]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.10-20.23.36:718][280]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.10-20.23.36:719][280]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.10-20.23.36:719][280]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.10-20.23.36:719][280]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.10-20.23.36:720][280]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.10-20.23.36:735][280]LogAudioMixer: Display: Using Audio Hardware Device Högtalare (High Definition Audio Device)
+[2023.12.10-20.23.36:735][280]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.10-20.23.36:735][280]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.10-20.23.36:735][280]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.10-20.23.36:736][280]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.12.10-20.23.36:736][280]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.12.10-20.23.36:737][280]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.12.10-20.23.36:737][280]LogInit: FAudioDevice initialized with ID 7.
+[2023.12.10-20.23.36:737][280]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.12.10-20.23.36:737][280]LogAudio: Display: Audio Device (ID: 7) registered with world 'TeacherOrders'.
+[2023.12.10-20.23.36:737][280]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.12.10-20.23.36:740][280]LogLoad: Game class is 'GameModeBase'
+[2023.12.10-20.23.36:741][280]LogWorld: Bringing World /Game/UEDPIE_0_TeacherOrders.TeacherOrders up for play (max tick rate 0) at 2023.12.10-21.23.36
+[2023.12.10-20.23.36:741][280]LogWorld: Bringing up level for play took: 0.000881
+[2023.12.10-20.23.36:743][280]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.12.10-20.23.36:743][280]PIE: Server logged in
+[2023.12.10-20.23.36:744][280]PIE: Play in editor total start time 0,033 seconds.
+[2023.12.10-20.23.52:519][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.10-20.23.52:519][987]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TeacherOrders
+[2023.12.10-20.23.52:519][987]LogWorld: UWorld::CleanupWorld for TeacherOrders, bSessionEnded=true, bCleanupResources=true
+[2023.12.10-20.23.52:519][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.10-20.23.52:521][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.10-20.23.52:523][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.10-20.23.52:526][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.10-20.23.52:526][987]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.12.10-20.23.52:526][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.12.10-20.23.52:527][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.12.10-20.23.52:531][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.12.10-20.23.52:621][989]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.12.10-20.24.04:660][382]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.10-20.24.04:665][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.10-20.24.04:665][382]PIE: New page: PIE session: TeacherOrders (10 dec. 2023 22:24:04)
+[2023.12.10-20.24.04:698][382]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TeacherOrders
+[2023.12.10-20.24.04:699][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001423s)
+[2023.12.10-20.24.04:699][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TeacherOrders.TeacherOrders to /Game/UEDPIE_0_TeacherOrders.TeacherOrders (0.001455s)
+[2023.12.10-20.24.04:703][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.12.10-20.24.04:705][382]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.10-20.24.04:705][382]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.10-20.24.04:706][382]LogAIModule: Creating AISystem for world TeacherOrders
+[2023.12.10-20.24.04:706][382]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2023.12.10-20.24.04:706][382]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.12.10-20.24.04:706][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.10-20.24.04:706][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.10-20.24.04:706][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.10-20.24.04:706][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.10-20.24.04:706][382]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.10-20.24.04:706][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.10-20.24.04:706][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.10-20.24.04:706][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.10-20.24.04:706][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.10-20.24.04:706][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.10-20.24.04:706][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.10-20.24.04:708][382]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.10-20.24.04:722][382]LogAudioMixer: Display: Using Audio Hardware Device Högtalare (High Definition Audio Device)
+[2023.12.10-20.24.04:722][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.10-20.24.04:722][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.10-20.24.04:722][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.10-20.24.04:722][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.12.10-20.24.04:722][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.12.10-20.24.04:724][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.12.10-20.24.04:724][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.12.10-20.24.04:724][382]LogInit: FAudioDevice initialized with ID 8.
+[2023.12.10-20.24.04:724][382]LogAudio: Display: Audio Device (ID: 8) registered with world 'TeacherOrders'.
+[2023.12.10-20.24.04:724][382]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.12.10-20.24.04:726][382]LogLoad: Game class is 'GameModeBase'
+[2023.12.10-20.24.04:727][382]LogWorld: Bringing World /Game/UEDPIE_0_TeacherOrders.TeacherOrders up for play (max tick rate 0) at 2023.12.10-21.24.04
+[2023.12.10-20.24.04:727][382]LogWorld: Bringing up level for play took: 0.000825
+[2023.12.10-20.24.04:728][382]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.12.10-20.24.04:729][382]PIE: Server logged in
+[2023.12.10-20.24.04:730][382]PIE: Play in editor total start time 0,064 seconds.
+[2023.12.10-20.25.05:179][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.10-20.25.05:179][380]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TeacherOrders
+[2023.12.10-20.25.05:179][380]LogWorld: UWorld::CleanupWorld for TeacherOrders, bSessionEnded=true, bCleanupResources=true
+[2023.12.10-20.25.05:179][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.10-20.25.05:181][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.10-20.25.05:183][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.10-20.25.05:186][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.10-20.25.05:186][380]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.12.10-20.25.05:186][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.12.10-20.25.05:187][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.12.10-20.25.05:191][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.12.10-20.25.05:240][381]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.12.10-20.25.11:522][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.12.10-20.25.11:528][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.10-20.25.11:567][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.12.10-20.25.11:572][ 68]LogSavePackage: Moving output files for package: /Game/TeacherOrders
+[2023.12.10-20.25.11:573][ 68]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/TeacherOrders011DE11443604AE18EA2FAB4BBC5C570.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/TeacherOrders.umap'
+[2023.12.10-20.25.11:577][ 68]LogFileHelpers: Saving map 'TeacherOrders' took 0.030
+[2023.12.10-20.25.11:601][ 68]LogSavePackage: Moving output files for package: /Game/Car/Material/CarLowPolyFinished_standardSurface1_BaseColor
+[2023.12.10-20.25.11:601][ 68]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/CarLowPolyFinished_standardSurfa89FEBBA648562DB77A0BB3B240B51076.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/CarLowPolyFinished_standardSurface1_BaseColor.uasset'
+[2023.12.10-20.25.11:614][ 68]LogSavePackage: Moving output files for package: /Game/Car/Material/CarLowPolyFinished_standardSurface1_Normal
+[2023.12.10-20.25.11:614][ 68]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/CarLowPolyFinished_standardSurfa4A66B7DE473B42679B852F9C88E424AA.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/CarLowPolyFinished_standardSurface1_Normal.uasset'
+[2023.12.10-20.25.11:630][ 68]LogSavePackage: Moving output files for package: /Game/Car/Material/CarLowPolyFinished_standardSurface1_OcclusionRoughnessMetallic
+[2023.12.10-20.25.11:630][ 68]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/CarLowPolyFinished_standardSurfa5F8B906D42E2B4AE19992EAA68E22F1B.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/CarLowPolyFinished_standardSurface1_OcclusionRoughnessMetallic.uasset'
+[2023.12.10-20.25.11:631][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Car/Material/m_Car" FILE="../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/m_Car.uasset" SILENT=true
+[2023.12.10-20.25.11:633][ 68]LogSavePackage: Moving output files for package: /Game/Car/Material/m_Car
+[2023.12.10-20.25.11:633][ 68]LogSavePackage: Moving '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/m_CarDC12F1FD46298E5C935D6BAD83EB0404.tmp' to '../../../../../../Users/adinf/OneDrive/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/Car/Material/m_Car.uasset'
+[2023.12.10-20.25.11:643][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 729 ms)
+[2023.12.10-20.25.11:645][ 68]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.10-20.25.11:645][ 68]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeacherOrders.TeacherOrders
+[2023.12.10-20.25.11:645][ 68]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Car/Material/CarLowPolyFinished_standardSurface1_BaseColor.CarLowPolyFinished_standardSurface1_BaseColor
+[2023.12.10-20.25.11:645][ 68]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Car/Material/CarLowPolyFinished_standardSurface1_Normal.CarLowPolyFinished_standardSurface1_Normal
+[2023.12.10-20.25.11:645][ 68]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Car/Material/CarLowPolyFinished_standardSurface1_OcclusionRoughnessMetallic.CarLowPolyFinished_standardSurface1_OcclusionRoughnessMetallic
+[2023.12.10-20.25.11:645][ 68]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Car/Material/m_Car.m_Car
