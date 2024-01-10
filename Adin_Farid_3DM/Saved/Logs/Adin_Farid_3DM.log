@@ -10126,3 +10126,73 @@ Script Stack (0 frames) :
 [2024.01.10-22.34.40:521][405]LogEditorViewport: Clicking Background
 [2024.01.10-22.34.40:758][419]LogEditorViewport: Clicking Background
 [2024.01.10-22.34.40:843][424]LogEditorViewport: Clicking Background
+[2024.01.10-23.06.14:819][621]LogDerivedDataCache: C:/Users/adinf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.149 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2608 files in 3942 folders with total size 222 MiB.
+[2024.01.10-23.06.39:832][209]LogViewport: Scene viewport resized to 718x403, mode Windowed.
+[2024.01.10-23.07.54:181][603]LogEditorViewport: Clicking Background
+[2024.01.10-23.07.54:972][645]LogEditorViewport: Clicking Background
+[2024.01.10-23.08.01:233][998]LogViewport: Scene viewport resized to 1687x977, mode Windowed.
+[2024.01.10-23.08.01:246][999]LogViewport: Scene viewport resized to 1377x917, mode Windowed.
+[2024.01.10-23.08.01:289][  0]LogViewport: Scene viewport resized to 1141x870, mode Windowed.
+[2024.01.10-23.08.01:334][  1]LogViewport: Scene viewport resized to 1036x850, mode Windowed.
+[2024.01.10-23.08.01:379][  2]LogViewport: Scene viewport resized to 1012x846, mode Windowed.
+[2024.01.10-23.08.01:436][  4]LogViewport: Scene viewport resized to 1012x845, mode Windowed.
+[2024.01.10-23.08.05:527][249]LogViewport: Scene viewport resized to 1016x845, mode Windowed.
+[2024.01.10-23.08.05:545][250]LogViewport: Scene viewport resized to 1023x845, mode Windowed.
+[2024.01.10-23.08.05:573][251]LogViewport: Scene viewport resized to 1061x845, mode Windowed.
+[2024.01.10-23.08.05:590][252]LogViewport: Scene viewport resized to 1093x845, mode Windowed.
+[2024.01.10-23.08.05:612][253]LogViewport: Scene viewport resized to 1129x845, mode Windowed.
+[2024.01.10-23.08.05:632][254]LogViewport: Scene viewport resized to 1197x845, mode Windowed.
+[2024.01.10-23.08.05:650][255]LogViewport: Scene viewport resized to 1230x845, mode Windowed.
+[2024.01.10-23.08.05:670][256]LogViewport: Scene viewport resized to 1269x845, mode Windowed.
+[2024.01.10-23.08.05:712][257]LogViewport: Scene viewport resized to 1316x845, mode Windowed.
+[2024.01.10-23.08.06:867][321]LogViewport: Scene viewport resized to 1314x845, mode Windowed.
+[2024.01.10-23.08.06:882][322]LogViewport: Scene viewport resized to 1313x845, mode Windowed.
+[2024.01.10-23.08.08:719][431]LogViewport: Scene viewport resized to 1316x845, mode Windowed.
+[2024.01.10-23.09.34:985][547]LogMaterial: Display: Material /Game/Transporter/Material/m_Transporter.m_Transporter needed to have new flag set bUsedWithSkeletalMesh !
+[2024.01.10-23.09.35:057][547]LogShaderCompilers: Display: ================================================
+[2024.01.10-23.09.35:057][547]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.10-23.09.35:057][547]LogShaderCompilers: Display: Total job queries 3 207, among them cache hits 1 845 (57.53%)
+[2024.01.10-23.09.35:057][547]LogShaderCompilers: Display: Tracking 270 distinct input hashes that result in 137 distinct outputs (50.74%)
+[2024.01.10-23.09.35:057][547]LogShaderCompilers: Display: RAM used: 6,06 MiB of 819,20 MiB budget. Usage: 0.74%
+[2024.01.10-23.09.35:057][547]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.10-23.09.35:057][547]LogShaderCompilers: Display: Shaders Compiled: 142
+[2024.01.10-23.09.35:057][547]LogShaderCompilers: Display: Jobs assigned 142, completed 142 (100%)
+[2024.01.10-23.09.35:057][547]LogShaderCompilers: Display: Average time worker was idle: 231.87 s
+[2024.01.10-23.09.35:057][547]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 0.99 s
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 0.94 s
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display: Job life time (pending + execution): average 0.60 s, max 1.31
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display: Shader code size: average 39,181 KiB, min 4,465 KiB, max 63,168 KiB
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.89 s
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display: Jobs were issued in 142 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display: Average processing rate: 10.22 jobs/sec
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display: Total thread time: 31,233 s
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display: Total thread preprocess time: 4,084 s
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display: Percentage time preprocessing: 13.07%
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display: Effective parallelization: 2.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.45 sec, max 0.47 sec, min 0.42 sec)
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   16 times, average 0.36 sec, max 0.47 sec, min 0.32 sec)
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.51% of total time (compiled   16 times, average 0.36 sec, max 0.47 sec, min 0.32 sec)
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.46% of total time (compiled   19 times, average 0.22 sec, max 0.31 sec, min 0.17 sec)
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.58% of total time (compiled   19 times, average 0.21 sec, max 0.29 sec, min 0.14 sec)
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.38% of total time (compiled   16 times, average 0.20 sec, max 0.27 sec, min 0.17 sec)
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.00% of total time (compiled   16 times, average 0.10 sec, max 0.14 sec, min 0.08 sec)
+[2024.01.10-23.09.35:058][547]LogShaderCompilers: Display: ================================================
+[2024.01.10-23.11.42:166][103]LogCore: Display: Tracing Screenshot "HighresScreenshot00008" taken with size: 1316 x 740
+[2024.01.10-23.11.42:278][104]LogClient: High resolution screenshot saved as C:/Users/adinf/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/Screenshots/WindowsEditor/HighresScreenshot00008.png
+[2024.01.10-23.11.44:250][213]Cmd: r.ResetRenderTargetsExtent
+[2024.01.10-23.11.44:250][213]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2024.01.10-23.11.44:250][213]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2024.01.10-23.11.47:940][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-23.11.48:022][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TeacherOrders" FILE="../../../../../../Users/adinf/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/TeacherOrders.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.10-23.11.48:048][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.01.10-23.11.48:061][332]LogSavePackage: Moving output files for package: /Game/TeacherOrders
+[2024.01.10-23.11.48:061][332]LogSavePackage: Moving '../../../../../../Users/adinf/Documents/GitHub/3DM2023/Adin_Farid_3DM/Saved/TeacherOrdersDC1A04AB44FE28BAD02267A5E38097B5.tmp' to '../../../../../../Users/adinf/Documents/GitHub/3DM2023/Adin_Farid_3DM/Content/TeacherOrders.umap'
+[2024.01.10-23.11.48:069][332]LogFileHelpers: Saving map 'TeacherOrders' took 0.048
+[2024.01.10-23.11.48:085][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 4.48 sec)
+[2024.01.10-23.11.48:087][332]AssetCheck: New page: Asset Save: TeacherOrders
+[2024.01.10-23.11.48:087][332]LogContentValidation: Display: Validating /Script/Engine.World /Game/TeacherOrders.TeacherOrders
